@@ -1,0 +1,6 @@
+2025-09-28 11:41:28,726 - orchestrator - INFO - [Session session_1759039886531] Incoming Q: What is the Indiramma Indlu scheme?
+2025-09-28 11:41:32,158 - orchestrator - INFO - [Session session_1759039886531] Classified intent: informational
+2025-09-28 11:41:34,187 - orchestrator - INFO - [Session session_1759039886531] Retrieved 7 docs
+2025-09-28 11:41:46,921 - orchestrator - INFO - [Session session_1759039886531] Starting translation...
+2025-09-28 11:43:31,959 - orchestrator - INFO - [Session session_1759039886531] Completed successfully.
+2025-09-28 11:43:31,960 - orchestrator - INFO - [Session session_1759039886531] Closing stream generator.

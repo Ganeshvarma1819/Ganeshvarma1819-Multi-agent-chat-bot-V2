@@ -1,0 +1,2244 @@
+2025-10-01 18:38:39,770 - __main__ - INFO - Starting database update process...
+2025-10-01 18:38:39,770 - __main__ - INFO - Found 1 previously processed file(s).
+2025-10-01 18:38:39,771 - __main__ - INFO - Found 1 PDF(s) in the data directory: INDRAMMA INDLU NEW30thAug2025.pdf
+2025-10-01 18:38:39,771 - __main__ - INFO - Found 1 new document(s) to process: INDRAMMA INDLU NEW30thAug2025.pdf
+2025-10-01 18:38:39,771 - __main__ - INFO - Processing 'INDRAMMA INDLU NEW30thAug2025.pdf'...
+2025-10-01 18:38:41,946 - __main__ - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 18:38:41,946 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,946 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:41,947 - __main__ - INFO - Cleaned text: 94 lines retained from 122
+2025-10-01 18:38:41,948 - __main__ - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 18:38:41,948 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,949 - __main__ - INFO - Cleaned text: 91 lines retained from 139
+2025-10-01 18:38:41,949 - __main__ - INFO - Cleaned text: 9 lines retained from 19
+2025-10-01 18:38:41,949 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,950 - __main__ - INFO - Cleaned text: 93 lines retained from 122
+2025-10-01 18:38:41,950 - __main__ - INFO - Cleaned text: 3 lines retained from 9
+2025-10-01 18:38:41,950 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,951 - __main__ - INFO - Cleaned text: 102 lines retained from 128
+2025-10-01 18:38:41,951 - __main__ - INFO - Cleaned text: 1 lines retained from 8
+2025-10-01 18:38:41,951 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,952 - __main__ - INFO - Cleaned text: 82 lines retained from 92
+2025-10-01 18:38:41,952 - __main__ - INFO - Cleaned text: 4 lines retained from 9
+2025-10-01 18:38:41,953 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,953 - __main__ - INFO - Cleaned text: 28 lines retained from 32
+2025-10-01 18:38:41,953 - __main__ - INFO - Cleaned text: 6 lines retained from 7
+2025-10-01 18:38:41,953 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,954 - __main__ - INFO - Cleaned text: 5 lines retained from 7
+2025-10-01 18:38:41,954 - __main__ - INFO - Cleaned text: 65 lines retained from 66
+2025-10-01 18:38:41,955 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:41,955 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,955 - __main__ - INFO - Cleaned text: 40 lines retained from 41
+2025-10-01 18:38:41,955 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,956 - __main__ - INFO - Cleaned text: 34 lines retained from 36
+2025-10-01 18:38:41,956 - __main__ - INFO - Cleaned text: 35 lines retained from 36
+2025-10-01 18:38:41,956 - __main__ - INFO - Cleaned text: 34 lines retained from 35
+2025-10-01 18:38:41,957 - __main__ - INFO - Cleaned text: 24 lines retained from 25
+2025-10-01 18:38:41,957 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,957 - __main__ - INFO - Cleaned text: 13 lines retained from 26
+2025-10-01 18:38:41,957 - __main__ - INFO - Cleaned text: 3 lines retained from 6
+2025-10-01 18:38:41,958 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,958 - __main__ - INFO - Cleaned text: 29 lines retained from 30
+2025-10-01 18:38:41,958 - __main__ - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 18:38:41,958 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,959 - __main__ - INFO - Cleaned text: 27 lines retained from 28
+2025-10-01 18:38:41,959 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,959 - __main__ - INFO - Cleaned text: 10 lines retained from 11
+2025-10-01 18:38:41,959 - __main__ - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 18:38:41,959 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,959 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,960 - __main__ - INFO - Cleaned text: 36 lines retained from 39
+2025-10-01 18:38:41,960 - __main__ - INFO - Cleaned text: 46 lines retained from 47
+2025-10-01 18:38:41,961 - __main__ - INFO - Cleaned text: 35 lines retained from 36
+2025-10-01 18:38:41,961 - __main__ - INFO - Cleaned text: 8 lines retained from 11
+2025-10-01 18:38:41,961 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,962 - __main__ - INFO - Cleaned text: 24 lines retained from 26
+2025-10-01 18:38:41,962 - __main__ - INFO - Cleaned text: 47 lines retained from 53
+2025-10-01 18:38:41,963 - __main__ - INFO - Cleaned text: 34 lines retained from 36
+2025-10-01 18:38:41,963 - __main__ - INFO - Cleaned text: 21 lines retained from 22
+2025-10-01 18:38:41,963 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,963 - __main__ - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 18:38:41,963 - __main__ - INFO - Cleaned text: 10 lines retained from 11
+2025-10-01 18:38:41,964 - __main__ - INFO - Cleaned text: 34 lines retained from 36
+2025-10-01 18:38:41,964 - __main__ - INFO - Cleaned text: 9 lines retained from 10
+2025-10-01 18:38:41,964 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,964 - __main__ - INFO - Cleaned text: 28 lines retained from 29
+2025-10-01 18:38:41,965 - __main__ - INFO - Cleaned text: 28 lines retained from 30
+2025-10-01 18:38:41,965 - __main__ - INFO - Cleaned text: 12 lines retained from 13
+2025-10-01 18:38:41,965 - __main__ - INFO - Cleaned text: 7 lines retained from 9
+2025-10-01 18:38:41,965 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,965 - __main__ - INFO - Cleaned text: 24 lines retained from 25
+2025-10-01 18:38:41,965 - __main__ - INFO - Cleaned text: 8 lines retained from 9
+2025-10-01 18:38:41,965 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,966 - __main__ - INFO - Cleaned text: 23 lines retained from 24
+2025-10-01 18:38:41,966 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:41,966 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,966 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,966 - __main__ - INFO - Cleaned text: 14 lines retained from 15
+2025-10-01 18:38:41,966 - __main__ - INFO - Cleaned text: 41 lines retained from 43
+2025-10-01 18:38:41,967 - __main__ - INFO - Cleaned text: 19 lines retained from 20
+2025-10-01 18:38:41,967 - __main__ - INFO - Cleaned text: 37 lines retained from 38
+2025-10-01 18:38:41,967 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:41,967 - __main__ - INFO - Cleaned text: 41 lines retained from 42
+2025-10-01 18:38:41,968 - __main__ - INFO - Cleaned text: 40 lines retained from 43
+2025-10-01 18:38:41,968 - __main__ - INFO - Cleaned text: 53 lines retained from 61
+2025-10-01 18:38:41,969 - __main__ - INFO - Cleaned text: 9 lines retained from 10
+2025-10-01 18:38:41,969 - __main__ - INFO - Cleaned text: 14 lines retained from 19
+2025-10-01 18:38:41,969 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,969 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,969 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,969 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,969 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,969 - __main__ - INFO - Cleaned text: 7 lines retained from 8
+2025-10-01 18:38:41,969 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,970 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,970 - __main__ - INFO - Cleaned text: 5 lines retained from 6
+2025-10-01 18:38:41,970 - __main__ - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 18:38:41,970 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,970 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,970 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,971 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:41,971 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:41,971 - __main__ - INFO - Cleaned text: 23 lines retained from 29
+2025-10-01 18:38:41,971 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:41,971 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,971 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,971 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,972 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,972 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,972 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,972 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,972 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,972 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,972 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:41,972 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,973 - __main__ - INFO - Cleaned text: 3 lines retained from 4
+2025-10-01 18:38:41,973 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,973 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:41,973 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,973 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,973 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,973 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,973 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,974 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:41,974 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,974 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:41,974 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,974 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,974 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,974 - __main__ - INFO - Cleaned text: 5 lines retained from 6
+2025-10-01 18:38:41,974 - __main__ - INFO - Cleaned text: 16 lines retained from 17
+2025-10-01 18:38:41,974 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,975 - __main__ - INFO - Cleaned text: 36 lines retained from 37
+2025-10-01 18:38:41,975 - __main__ - INFO - Cleaned text: 30 lines retained from 31
+2025-10-01 18:38:41,976 - __main__ - INFO - Cleaned text: 27 lines retained from 30
+2025-10-01 18:38:41,976 - __main__ - INFO - Cleaned text: 2 lines retained from 5
+2025-10-01 18:38:41,976 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,976 - __main__ - INFO - Cleaned text: 30 lines retained from 31
+2025-10-01 18:38:41,977 - __main__ - INFO - Cleaned text: 25 lines retained from 26
+2025-10-01 18:38:41,977 - __main__ - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 18:38:41,977 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:41,977 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,978 - __main__ - INFO - Cleaned text: 28 lines retained from 32
+2025-10-01 18:38:41,978 - __main__ - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 18:38:41,978 - __main__ - INFO - Cleaned text: 29 lines retained from 30
+2025-10-01 18:38:41,979 - __main__ - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 18:38:41,979 - __main__ - INFO - Cleaned text: 30 lines retained from 31
+2025-10-01 18:38:41,979 - __main__ - INFO - Cleaned text: 15 lines retained from 18
+2025-10-01 18:38:41,980 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,980 - __main__ - INFO - Cleaned text: 35 lines retained from 38
+2025-10-01 18:38:41,980 - __main__ - INFO - Cleaned text: 34 lines retained from 35
+2025-10-01 18:38:41,981 - __main__ - INFO - Cleaned text: 28 lines retained from 29
+2025-10-01 18:38:41,981 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,981 - __main__ - INFO - Cleaned text: 39 lines retained from 40
+2025-10-01 18:38:41,981 - __main__ - INFO - Cleaned text: 9 lines retained from 10
+2025-10-01 18:38:41,981 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,982 - __main__ - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 18:38:41,982 - __main__ - INFO - Cleaned text: 10 lines retained from 11
+2025-10-01 18:38:41,982 - __main__ - INFO - Cleaned text: 33 lines retained from 34
+2025-10-01 18:38:41,983 - __main__ - INFO - Cleaned text: 27 lines retained from 28
+2025-10-01 18:38:41,983 - __main__ - INFO - Cleaned text: 28 lines retained from 32
+2025-10-01 18:38:41,983 - __main__ - INFO - Cleaned text: 27 lines retained from 28
+2025-10-01 18:38:41,983 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:41,984 - __main__ - INFO - Cleaned text: 19 lines retained from 26
+2025-10-01 18:38:41,984 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:41,984 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,984 - __main__ - INFO - Cleaned text: 33 lines retained from 34
+2025-10-01 18:38:41,984 - __main__ - INFO - Cleaned text: 24 lines retained from 25
+2025-10-01 18:38:41,985 - __main__ - INFO - Cleaned text: 23 lines retained from 24
+2025-10-01 18:38:41,985 - __main__ - INFO - Cleaned text: 22 lines retained from 23
+2025-10-01 18:38:41,985 - __main__ - INFO - Cleaned text: 19 lines retained from 20
+2025-10-01 18:38:41,985 - __main__ - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 18:38:41,986 - __main__ - INFO - Cleaned text: 12 lines retained from 13
+2025-10-01 18:38:41,986 - __main__ - INFO - Cleaned text: 30 lines retained from 31
+2025-10-01 18:38:41,986 - __main__ - INFO - Cleaned text: 30 lines retained from 34
+2025-10-01 18:38:41,986 - __main__ - INFO - Cleaned text: 0 lines retained from 6
+2025-10-01 18:38:41,986 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,987 - __main__ - INFO - Cleaned text: 39 lines retained from 40
+2025-10-01 18:38:41,987 - __main__ - INFO - Cleaned text: 8 lines retained from 9
+2025-10-01 18:38:41,987 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,987 - __main__ - INFO - Cleaned text: 29 lines retained from 30
+2025-10-01 18:38:41,988 - __main__ - INFO - Cleaned text: 13 lines retained from 14
+2025-10-01 18:38:41,988 - __main__ - INFO - Cleaned text: 13 lines retained from 16
+2025-10-01 18:38:41,988 - __main__ - INFO - Cleaned text: 13 lines retained from 14
+2025-10-01 18:38:41,989 - __main__ - INFO - Cleaned text: 36 lines retained from 37
+2025-10-01 18:38:41,989 - __main__ - INFO - Cleaned text: 37 lines retained from 39
+2025-10-01 18:38:41,989 - __main__ - INFO - Cleaned text: 27 lines retained from 32
+2025-10-01 18:38:41,990 - __main__ - INFO - Cleaned text: 29 lines retained from 33
+2025-10-01 18:38:41,990 - __main__ - INFO - Cleaned text: 28 lines retained from 32
+2025-10-01 18:38:41,990 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:41,991 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,991 - __main__ - INFO - Cleaned text: 25 lines retained from 30
+2025-10-01 18:38:41,991 - __main__ - INFO - Cleaned text: 0 lines retained from 4
+2025-10-01 18:38:41,991 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,992 - __main__ - INFO - Cleaned text: 28 lines retained from 29
+2025-10-01 18:38:41,992 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:41,992 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,992 - __main__ - INFO - Cleaned text: 19 lines retained from 22
+2025-10-01 18:38:41,992 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,993 - __main__ - INFO - Cleaned text: 29 lines retained from 30
+2025-10-01 18:38:41,993 - __main__ - INFO - Cleaned text: 14 lines retained from 17
+2025-10-01 18:38:41,993 - __main__ - INFO - Cleaned text: 29 lines retained from 31
+2025-10-01 18:38:41,993 - __main__ - INFO - Cleaned text: 6 lines retained from 7
+2025-10-01 18:38:41,994 - __main__ - INFO - Cleaned text: 23 lines retained from 27
+2025-10-01 18:38:41,994 - __main__ - INFO - Cleaned text: 30 lines retained from 33
+2025-10-01 18:38:41,994 - __main__ - INFO - Cleaned text: 29 lines retained from 30
+2025-10-01 18:38:41,994 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,995 - __main__ - INFO - Cleaned text: 99 lines retained from 102
+2025-10-01 18:38:41,995 - __main__ - INFO - Cleaned text: 2 lines retained from 5
+2025-10-01 18:38:41,995 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,995 - __main__ - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 18:38:41,996 - __main__ - INFO - Cleaned text: 27 lines retained from 32
+2025-10-01 18:38:41,996 - __main__ - INFO - Cleaned text: 35 lines retained from 37
+2025-10-01 18:38:41,996 - __main__ - INFO - Cleaned text: 28 lines retained from 29
+2025-10-01 18:38:41,996 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:41,997 - __main__ - INFO - Cleaned text: 23 lines retained from 24
+2025-10-01 18:38:41,997 - __main__ - INFO - Cleaned text: 5 lines retained from 8
+2025-10-01 18:38:41,997 - __main__ - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 18:38:41,997 - __main__ - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 18:38:41,998 - __main__ - INFO - Cleaned text: 26 lines retained from 32
+2025-10-01 18:38:41,998 - __main__ - INFO - Cleaned text: 24 lines retained from 25
+2025-10-01 18:38:41,998 - __main__ - INFO - Cleaned text: 52 lines retained from 53
+2025-10-01 18:38:41,999 - __main__ - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 18:38:41,999 - __main__ - INFO - Cleaned text: 88 lines retained from 90
+2025-10-01 18:38:41,999 - __main__ - INFO - Cleaned text: 12 lines retained from 15
+2025-10-01 18:38:42,000 - __main__ - INFO - Cleaned text: 17 lines retained from 21
+2025-10-01 18:38:42,000 - __main__ - INFO - Cleaned text: 21 lines retained from 29
+2025-10-01 18:38:42,000 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,000 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,000 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,000 - __main__ - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 18:38:42,001 - __main__ - INFO - Cleaned text: 29 lines retained from 36
+2025-10-01 18:38:42,001 - __main__ - INFO - Cleaned text: 22 lines retained from 29
+2025-10-01 18:38:42,001 - __main__ - INFO - Cleaned text: 27 lines retained from 30
+2025-10-01 18:38:42,002 - __main__ - INFO - Cleaned text: 51 lines retained from 62
+2025-10-01 18:38:42,002 - __main__ - INFO - Cleaned text: 26 lines retained from 27
+2025-10-01 18:38:42,002 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,002 - __main__ - INFO - Cleaned text: 34 lines retained from 36
+2025-10-01 18:38:42,003 - __main__ - INFO - Cleaned text: 50 lines retained from 53
+2025-10-01 18:38:42,004 - __main__ - INFO - Cleaned text: 44 lines retained from 50
+2025-10-01 18:38:42,004 - __main__ - INFO - Cleaned text: 12 lines retained from 13
+2025-10-01 18:38:42,004 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:42,005 - __main__ - INFO - Cleaned text: 57 lines retained from 66
+2025-10-01 18:38:42,005 - __main__ - INFO - Cleaned text: 3 lines retained from 4
+2025-10-01 18:38:42,005 - __main__ - INFO - Cleaned text: 14 lines retained from 19
+2025-10-01 18:38:42,005 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,006 - __main__ - INFO - Cleaned text: 30 lines retained from 32
+2025-10-01 18:38:42,007 - __main__ - INFO - Cleaned text: 71 lines retained from 73
+2025-10-01 18:38:42,007 - __main__ - INFO - Cleaned text: 22 lines retained from 24
+2025-10-01 18:38:42,007 - __main__ - INFO - Cleaned text: 20 lines retained from 23
+2025-10-01 18:38:42,008 - __main__ - INFO - Cleaned text: 41 lines retained from 42
+2025-10-01 18:38:42,008 - __main__ - INFO - Cleaned text: 36 lines retained from 42
+2025-10-01 18:38:42,009 - __main__ - INFO - Cleaned text: 8 lines retained from 9
+2025-10-01 18:38:42,009 - __main__ - INFO - Cleaned text: 25 lines retained from 27
+2025-10-01 18:38:42,009 - __main__ - INFO - Cleaned text: 23 lines retained from 26
+2025-10-01 18:38:42,009 - __main__ - INFO - Cleaned text: 25 lines retained from 30
+2025-10-01 18:38:42,010 - __main__ - INFO - Cleaned text: 58 lines retained from 67
+2025-10-01 18:38:42,010 - __main__ - INFO - Cleaned text: 36 lines retained from 43
+2025-10-01 18:38:42,010 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,010 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,012 - __main__ - INFO - Cleaned text: 138 lines retained from 226
+2025-10-01 18:38:42,012 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,012 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,013 - __main__ - INFO - Cleaned text: 121 lines retained from 192
+2025-10-01 18:38:42,014 - __main__ - INFO - Cleaned text: 82 lines retained from 113
+2025-10-01 18:38:42,014 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,015 - __main__ - INFO - Cleaned text: 113 lines retained from 179
+2025-10-01 18:38:42,016 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,016 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,016 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,017 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,017 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,017 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,018 - __main__ - INFO - Cleaned text: 28 lines retained from 29
+2025-10-01 18:38:42,018 - __main__ - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 18:38:42,018 - __main__ - INFO - Cleaned text: 9 lines retained from 12
+2025-10-01 18:38:42,018 - __main__ - INFO - Cleaned text: 12 lines retained from 13
+2025-10-01 18:38:42,019 - __main__ - INFO - Cleaned text: 22 lines retained from 25
+2025-10-01 18:38:42,019 - __main__ - INFO - Cleaned text: 26 lines retained from 37
+2025-10-01 18:38:42,020 - __main__ - INFO - Cleaned text: 19 lines retained from 22
+2025-10-01 18:38:42,020 - __main__ - INFO - Cleaned text: 34 lines retained from 35
+2025-10-01 18:38:42,021 - __main__ - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 18:38:42,022 - __main__ - INFO - Cleaned text: 12 lines retained from 15
+2025-10-01 18:38:42,022 - __main__ - INFO - Cleaned text: 23 lines retained from 25
+2025-10-01 18:38:42,023 - __main__ - INFO - Cleaned text: 9 lines retained from 16
+2025-10-01 18:38:42,023 - __main__ - INFO - Cleaned text: 43 lines retained from 58
+2025-10-01 18:38:42,024 - __main__ - INFO - Cleaned text: 53 lines retained from 61
+2025-10-01 18:38:42,024 - __main__ - INFO - Cleaned text: 0 lines retained from 3
+2025-10-01 18:38:42,025 - __main__ - INFO - Cleaned text: 79 lines retained from 82
+2025-10-01 18:38:42,026 - __main__ - INFO - Cleaned text: 13 lines retained from 14
+2025-10-01 18:38:42,026 - __main__ - INFO - Cleaned text: 44 lines retained from 58
+2025-10-01 18:38:42,027 - __main__ - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 18:38:42,027 - __main__ - INFO - Cleaned text: 12 lines retained from 13
+2025-10-01 18:38:42,028 - __main__ - INFO - Cleaned text: 25 lines retained from 30
+2025-10-01 18:38:42,028 - __main__ - INFO - Cleaned text: 25 lines retained from 28
+2025-10-01 18:38:42,028 - __main__ - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 18:38:42,029 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,029 - __main__ - INFO - Cleaned text: 27 lines retained from 30
+2025-10-01 18:38:42,029 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,029 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,030 - __main__ - INFO - Cleaned text: 12 lines retained from 16
+2025-10-01 18:38:42,030 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:42,030 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,031 - __main__ - INFO - Cleaned text: 27 lines retained from 30
+2025-10-01 18:38:42,031 - __main__ - INFO - Cleaned text: 9 lines retained from 12
+2025-10-01 18:38:42,031 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,032 - __main__ - INFO - Cleaned text: 37 lines retained from 44
+2025-10-01 18:38:42,032 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,032 - __main__ - INFO - Cleaned text: 12 lines retained from 22
+2025-10-01 18:38:42,032 - __main__ - INFO - Cleaned text: 13 lines retained from 20
+2025-10-01 18:38:42,033 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,033 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,033 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,033 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:42,034 - __main__ - INFO - Cleaned text: 34 lines retained from 48
+2025-10-01 18:38:42,034 - __main__ - INFO - Cleaned text: 10 lines retained from 11
+2025-10-01 18:38:42,034 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:42,035 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:42,035 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:42,036 - __main__ - INFO - Cleaned text: 84 lines retained from 112
+2025-10-01 18:38:42,036 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,037 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,037 - __main__ - INFO - Cleaned text: 3 lines retained from 4
+2025-10-01 18:38:42,038 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,038 - __main__ - INFO - Cleaned text: 1 lines retained from 3
+2025-10-01 18:38:42,038 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,039 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,039 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,040 - __main__ - INFO - Cleaned text: 30 lines retained from 31
+2025-10-01 18:38:42,040 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:42,040 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,041 - __main__ - INFO - Cleaned text: 35 lines retained from 37
+2025-10-01 18:38:42,041 - __main__ - INFO - Cleaned text: 33 lines retained from 41
+2025-10-01 18:38:42,042 - __main__ - INFO - Cleaned text: 32 lines retained from 36
+2025-10-01 18:38:42,042 - __main__ - INFO - Cleaned text: 1 lines retained from 4
+2025-10-01 18:38:42,043 - __main__ - INFO - Cleaned text: 83 lines retained from 94
+2025-10-01 18:38:42,043 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,044 - __main__ - INFO - Cleaned text: 109 lines retained from 173
+2025-10-01 18:38:42,044 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,045 - __main__ - INFO - Cleaned text: 34 lines retained from 36
+2025-10-01 18:38:42,045 - __main__ - INFO - Cleaned text: 20 lines retained from 24
+2025-10-01 18:38:42,046 - __main__ - INFO - Cleaned text: 33 lines retained from 37
+2025-10-01 18:38:42,046 - __main__ - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 18:38:42,046 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,047 - __main__ - INFO - Cleaned text: 18 lines retained from 21
+2025-10-01 18:38:42,047 - __main__ - INFO - Cleaned text: 12 lines retained from 15
+2025-10-01 18:38:42,047 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,048 - __main__ - INFO - Cleaned text: 19 lines retained from 20
+2025-10-01 18:38:42,048 - __main__ - INFO - Cleaned text: 27 lines retained from 28
+2025-10-01 18:38:42,048 - __main__ - INFO - Cleaned text: 3 lines retained from 7
+2025-10-01 18:38:42,048 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,049 - __main__ - INFO - Cleaned text: 24 lines retained from 30
+2025-10-01 18:38:42,049 - __main__ - INFO - Cleaned text: 12 lines retained from 14
+2025-10-01 18:38:42,049 - __main__ - INFO - Cleaned text: 21 lines retained from 26
+2025-10-01 18:38:42,050 - __main__ - INFO - Cleaned text: 1 lines retained from 4
+2025-10-01 18:38:42,050 - __main__ - INFO - Cleaned text: 97 lines retained from 100
+2025-10-01 18:38:42,051 - __main__ - INFO - Cleaned text: 20 lines retained from 28
+2025-10-01 18:38:42,051 - __main__ - INFO - Cleaned text: 23 lines retained from 24
+2025-10-01 18:38:42,051 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,052 - __main__ - INFO - Cleaned text: 29 lines retained from 32
+2025-10-01 18:38:42,052 - __main__ - INFO - Cleaned text: 1 lines retained from 5
+2025-10-01 18:38:42,052 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,053 - __main__ - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 18:38:42,053 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,054 - __main__ - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 18:38:42,054 - __main__ - INFO - Cleaned text: 9 lines retained from 12
+2025-10-01 18:38:42,054 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,055 - __main__ - INFO - Cleaned text: 40 lines retained from 52
+2025-10-01 18:38:42,055 - __main__ - INFO - Cleaned text: 41 lines retained from 63
+2025-10-01 18:38:42,056 - __main__ - INFO - Cleaned text: 28 lines retained from 29
+2025-10-01 18:38:42,056 - __main__ - INFO - Cleaned text: 30 lines retained from 36
+2025-10-01 18:38:42,056 - __main__ - INFO - Cleaned text: 20 lines retained from 26
+2025-10-01 18:38:42,056 - __main__ - INFO - Cleaned text: 19 lines retained from 20
+2025-10-01 18:38:42,057 - __main__ - INFO - Cleaned text: 48 lines retained from 49
+2025-10-01 18:38:42,057 - __main__ - INFO - Cleaned text: 20 lines retained from 21
+2025-10-01 18:38:42,057 - __main__ - INFO - Cleaned text: 35 lines retained from 43
+2025-10-01 18:38:42,058 - __main__ - INFO - Cleaned text: 16 lines retained from 22
+2025-10-01 18:38:42,058 - __main__ - INFO - Cleaned text: 13 lines retained from 14
+2025-10-01 18:38:42,059 - __main__ - INFO - Cleaned text: 97 lines retained from 134
+2025-10-01 18:38:42,059 - __main__ - INFO - Cleaned text: 51 lines retained from 56
+2025-10-01 18:38:42,059 - __main__ - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 18:38:42,060 - __main__ - INFO - Cleaned text: 34 lines retained from 37
+2025-10-01 18:38:42,060 - __main__ - INFO - Cleaned text: 33 lines retained from 36
+2025-10-01 18:38:42,060 - __main__ - INFO - Cleaned text: 8 lines retained from 9
+2025-10-01 18:38:42,060 - __main__ - INFO - Cleaned text: 36 lines retained from 37
+2025-10-01 18:38:42,061 - __main__ - INFO - Cleaned text: 55 lines retained from 61
+2025-10-01 18:38:42,061 - __main__ - INFO - Cleaned text: 4 lines retained from 12
+2025-10-01 18:38:42,062 - __main__ - INFO - Cleaned text: 55 lines retained from 56
+2025-10-01 18:38:42,062 - __main__ - INFO - Cleaned text: 34 lines retained from 39
+2025-10-01 18:38:42,062 - __main__ - INFO - Cleaned text: 14 lines retained from 19
+2025-10-01 18:38:42,062 - __main__ - INFO - Cleaned text: 34 lines retained from 40
+2025-10-01 18:38:42,063 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,063 - __main__ - INFO - Cleaned text: 30 lines retained from 32
+2025-10-01 18:38:42,063 - __main__ - INFO - Cleaned text: 37 lines retained from 39
+2025-10-01 18:38:42,064 - __main__ - INFO - Cleaned text: 24 lines retained from 25
+2025-10-01 18:38:42,064 - __main__ - INFO - Cleaned text: 23 lines retained from 27
+2025-10-01 18:38:42,064 - __main__ - INFO - Cleaned text: 16 lines retained from 19
+2025-10-01 18:38:42,064 - __main__ - INFO - Cleaned text: 19 lines retained from 20
+2025-10-01 18:38:42,065 - __main__ - INFO - Cleaned text: 15 lines retained from 18
+2025-10-01 18:38:42,065 - __main__ - INFO - Cleaned text: 34 lines retained from 37
+2025-10-01 18:38:42,065 - __main__ - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 18:38:42,065 - __main__ - INFO - Cleaned text: 6 lines retained from 7
+2025-10-01 18:38:42,066 - __main__ - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 18:38:42,066 - __main__ - INFO - Cleaned text: 13 lines retained from 14
+2025-10-01 18:38:42,066 - __main__ - INFO - Cleaned text: 13 lines retained from 14
+2025-10-01 18:38:42,066 - __main__ - INFO - Cleaned text: 15 lines retained from 16
+2025-10-01 18:38:42,066 - __main__ - INFO - Cleaned text: 26 lines retained from 27
+2025-10-01 18:38:42,067 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,067 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:42,067 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,067 - __main__ - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 18:38:42,067 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,067 - __main__ - INFO - Cleaned text: 34 lines retained from 37
+2025-10-01 18:38:42,068 - __main__ - INFO - Cleaned text: 40 lines retained from 41
+2025-10-01 18:38:42,068 - __main__ - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 18:38:42,068 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,068 - __main__ - INFO - Cleaned text: 26 lines retained from 29
+2025-10-01 18:38:42,069 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:42,069 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,069 - __main__ - INFO - Cleaned text: 29 lines retained from 30
+2025-10-01 18:38:42,069 - __main__ - INFO - Cleaned text: 8 lines retained from 9
+2025-10-01 18:38:42,069 - __main__ - INFO - Cleaned text: 31 lines retained from 33
+2025-10-01 18:38:42,070 - __main__ - INFO - Cleaned text: 50 lines retained from 53
+2025-10-01 18:38:42,070 - __main__ - INFO - Cleaned text: 20 lines retained from 24
+2025-10-01 18:38:42,071 - __main__ - INFO - Cleaned text: 36 lines retained from 37
+2025-10-01 18:38:42,071 - __main__ - INFO - Cleaned text: 16 lines retained from 17
+2025-10-01 18:38:42,071 - __main__ - INFO - Cleaned text: 22 lines retained from 27
+2025-10-01 18:38:42,072 - __main__ - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 18:38:42,072 - __main__ - INFO - Cleaned text: 27 lines retained from 32
+2025-10-01 18:38:42,072 - __main__ - INFO - Cleaned text: 13 lines retained from 18
+2025-10-01 18:38:42,072 - __main__ - INFO - Cleaned text: 2 lines retained from 4
+2025-10-01 18:38:42,073 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,073 - __main__ - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 18:38:42,073 - __main__ - INFO - Cleaned text: 29 lines retained from 37
+2025-10-01 18:38:42,073 - __main__ - INFO - Cleaned text: 5 lines retained from 9
+2025-10-01 18:38:42,073 - __main__ - INFO - Cleaned text: 8 lines retained from 9
+2025-10-01 18:38:42,074 - __main__ - INFO - Cleaned text: 35 lines retained from 36
+2025-10-01 18:38:42,074 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:42,074 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,074 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,074 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:38:42,074 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,074 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,075 - __main__ - INFO - Cleaned text: 23 lines retained from 24
+2025-10-01 18:38:42,075 - __main__ - INFO - Cleaned text: 17 lines retained from 21
+2025-10-01 18:38:42,075 - __main__ - INFO - Cleaned text: 16 lines retained from 20
+2025-10-01 18:38:42,075 - __main__ - INFO - Cleaned text: 29 lines retained from 34
+2025-10-01 18:38:42,076 - __main__ - INFO - Cleaned text: 29 lines retained from 31
+2025-10-01 18:38:42,076 - __main__ - INFO - Cleaned text: 15 lines retained from 16
+2025-10-01 18:38:42,076 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,076 - __main__ - INFO - Cleaned text: 33 lines retained from 34
+2025-10-01 18:38:42,076 - __main__ - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 18:38:42,077 - __main__ - INFO - Cleaned text: 60 lines retained from 74
+2025-10-01 18:38:42,077 - __main__ - INFO - Cleaned text: 14 lines retained from 18
+2025-10-01 18:38:42,077 - __main__ - INFO - Cleaned text: 31 lines retained from 34
+2025-10-01 18:38:42,078 - __main__ - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 18:38:42,078 - __main__ - INFO - Cleaned text: 16 lines retained from 19
+2025-10-01 18:38:42,078 - __main__ - INFO - Cleaned text: 27 lines retained from 33
+2025-10-01 18:38:42,078 - __main__ - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 18:38:42,079 - __main__ - INFO - Cleaned text: 26 lines retained from 27
+2025-10-01 18:38:42,079 - __main__ - INFO - Cleaned text: 14 lines retained from 15
+2025-10-01 18:38:42,079 - __main__ - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 18:38:42,079 - __main__ - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 18:40:32,642 - __main__ - INFO - Deduplicated chunks: Reduced from 440 to 1 unique chunks.
+2025-10-01 18:40:32,646 - __main__ - INFO - Split 'INDRAMMA INDLU NEW30thAug2025.pdf' into 440 chunks (1 unique after deduplication).
+2025-10-01 18:40:32,647 - __main__ - INFO - Initializing vector store and embedding model...
+2025-10-01 18:40:32,676 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-01 18:40:32,832 - __main__ - INFO - Adding 1 new chunks to the database...
+2025-10-01 18:40:34,644 - __main__ - INFO - Added batch 1/1
+2025-10-01 18:40:34,644 - __main__ - INFO - Successfully added all new documents to the database.
+2025-10-01 18:40:34,644 - __main__ - INFO - Updated processed files log.
+2025-10-01 18:40:34,645 - __main__ - INFO - Database update process finished.
+2025-10-01 18:42:09,451 - api - INFO - Server starting up...
+2025-10-01 18:42:09,525 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-01 18:42:23,684 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 18:42:42,377 - api - INFO - Session: session_1759324358337, Question: 'What is the Indiramma Indlu scheme?'
+2025-10-01 18:42:46,867 - api - INFO - Intent classified as: 'informational'
+2025-10-01 18:42:48,836 - api - INFO - Deduplicated docs: Went from 1 to 1 unique documents.
+2025-10-01 18:42:48,837 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:42:48,837 - api - INFO - Context length: 93 characters
+2025-10-01 18:42:57,857 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:42:57,857 - api - INFO - Translating full answer to Telugu...
+2025-10-01 18:42:57,860 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:42:57,860 - api - INFO - Pre-translation dedup: Reduced to 1 sentences.
+2025-10-01 18:43:09,526 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:43:09,527 - api - INFO - Translation successful: Generated 1 Telugu sentences.
+2025-10-01 18:43:09,528 - api - INFO - Orchestrator finished.
+2025-10-01 18:43:09,529 - api - INFO - Closing stream generator.
+2025-10-01 18:45:16,574 - api - INFO - Session: session_1759324400420, Question: 'Who is eligible for the Indiramma Housing Scheme?'
+2025-10-01 18:45:18,765 - api - INFO - Intent classified as: 'informational'
+2025-10-01 18:45:19,259 - api - INFO - Deduplicated docs: Went from 1 to 1 unique documents.
+2025-10-01 18:45:19,259 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:45:19,260 - api - INFO - Context length: 93 characters
+2025-10-01 18:45:24,151 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 18:45:24,151 - api - INFO - Translating full answer to Telugu...
+2025-10-01 18:45:24,153 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 18:45:24,153 - api - INFO - Pre-translation dedup: Reduced to 2 sentences.
+2025-10-01 18:45:35,476 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 18:45:35,477 - api - INFO - Translation successful: Generated 2 Telugu sentences.
+2025-10-01 18:45:35,477 - api - INFO - Orchestrator finished.
+2025-10-01 18:45:35,478 - api - INFO - Closing stream generator.
+2025-10-01 18:46:42,373 - api - INFO - Session: session_1759324400420, Question: 'what is PMAY(G)'
+2025-10-01 18:46:43,246 - api - INFO - Intent classified as: 'informational'
+2025-10-01 18:46:43,713 - api - INFO - Deduplicated docs: Went from 1 to 1 unique documents.
+2025-10-01 18:46:43,713 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:46:43,714 - api - INFO - Context length: 93 characters
+2025-10-01 18:46:45,117 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:46:45,117 - api - INFO - Translating full answer to Telugu...
+2025-10-01 18:46:45,117 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:46:45,117 - api - INFO - Pre-translation dedup: Reduced to 1 sentences.
+2025-10-01 18:46:47,887 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:46:47,887 - api - INFO - Translation successful: Generated 1 Telugu sentences.
+2025-10-01 18:46:47,888 - api - INFO - Orchestrator finished.
+2025-10-01 18:46:47,888 - api - INFO - Closing stream generator.
+2025-10-01 18:51:52,891 - api - INFO - Session: session_1759324400420, Question: 'What are Self Help Groups'
+2025-10-01 18:51:55,540 - api - INFO - Intent classified as: 'informational'
+2025-10-01 18:51:56,583 - api - INFO - Deduplicated docs: Went from 1 to 1 unique documents.
+2025-10-01 18:51:56,583 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:51:56,583 - api - INFO - Context length: 93 characters
+2025-10-01 18:51:58,445 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:51:58,445 - api - INFO - Translating full answer to Telugu...
+2025-10-01 18:51:58,445 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:51:58,446 - api - INFO - Pre-translation dedup: Reduced to 1 sentences.
+2025-10-01 18:52:01,650 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 18:52:01,650 - api - INFO - Translation successful: Generated 1 Telugu sentences.
+2025-10-01 18:52:01,650 - api - INFO - Orchestrator finished.
+2025-10-01 18:52:01,651 - api - INFO - Closing stream generator.
+2025-10-01 18:59:07,141 - api - INFO - Server starting up...
+2025-10-01 18:59:07,194 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-01 18:59:12,625 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 19:00:57,508 - api - INFO - Session: session_1759325452754, Question: 'Who is eligible for the Indiramma Housing Scheme?'
+2025-10-01 19:01:00,179 - api - INFO - Intent classified as: 'informational'
+2025-10-01 19:01:02,045 - api - INFO - Deduplicated docs: Went from 1 to 1 unique documents.
+2025-10-01 19:01:02,046 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 19:01:04,555 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 19:01:04,555 - api - INFO - Translating full answer to Telugu...
+2025-10-01 19:01:04,557 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 19:01:04,557 - api - INFO - Pre-translation dedup: Reduced to 2 sentences.
+2025-10-01 19:01:11,549 - api - INFO - Stream cancelled by client.
+2025-10-01 19:01:11,550 - api - INFO - Closing stream generator.
+2025-10-01 19:01:17,583 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 19:01:17,583 - api - INFO - Translation successful: Generated 2 Telugu sentences.
+2025-10-01 19:01:17,584 - api - INFO - Orchestrator finished.
+2025-10-01 19:03:50,846 - api - INFO - Server starting up...
+2025-10-01 19:03:50,891 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-01 19:03:56,383 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 19:04:06,768 - api - INFO - Server starting up...
+2025-10-01 19:04:06,801 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-01 19:04:12,234 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 19:05:31,487 - api - INFO - Session: session_1759325722240, Question: 'What is the Indiramma Indlu scheme?'
+2025-10-01 19:05:35,682 - api - INFO - Intent classified as: 'informational'
+2025-10-01 19:05:37,438 - api - INFO - Deduplicated docs: Went from 1 to 1 unique documents.
+2025-10-01 19:05:37,438 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 19:05:42,719 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 19:05:42,719 - api - INFO - Translating full answer to Telugu...
+2025-10-01 19:05:42,721 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 19:05:42,721 - api - INFO - Pre-translation dedup: Reduced to 1 sentences.
+2025-10-01 19:05:50,503 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 19:05:50,504 - api - INFO - Translation successful: Generated 1 Telugu sentences.
+2025-10-01 19:05:50,504 - api - INFO - Orchestrator finished.
+2025-10-01 19:05:50,505 - api - INFO - Closing stream generator.
+2025-10-01 20:00:38,496 - api - INFO - Server starting up...
+2025-10-01 20:00:38,563 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-01 20:00:49,710 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:00:53,566 - api - INFO - Session: session_1759328866539, Question: 'What is the Indiramma Indlu scheme?'
+2025-10-01 20:00:58,737 - api - INFO - Intent classified as: 'informational'
+2025-10-01 20:01:00,584 - api - INFO - Deduplicated docs: Went from 1 to 1 unique documents.
+2025-10-01 20:01:00,585 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 20:01:05,543 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:01:05,544 - api - INFO - Translating full answer to Telugu...
+2025-10-01 20:01:05,545 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:01:05,546 - api - INFO - Pre-translation dedup: Reduced to 2 sentences.
+2025-10-01 20:01:18,478 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:01:18,478 - api - INFO - Translation successful: Generated 2 Telugu sentences.
+2025-10-01 20:01:18,479 - api - INFO - Orchestrator finished.
+2025-10-01 20:01:18,479 - api - INFO - Closing stream generator.
+2025-10-01 20:02:28,307 - api - INFO - Session: session_1759328866539, Question: 'give more detailed explaination about the scheme'
+2025-10-01 20:02:31,483 - api - INFO - Intent classified as: 'informational'
+2025-10-01 20:02:31,980 - api - INFO - Deduplicated docs: Went from 1 to 1 unique documents.
+2025-10-01 20:02:31,981 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 20:02:35,937 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 20:02:35,938 - api - INFO - Translating full answer to Telugu...
+2025-10-01 20:02:35,938 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:02:35,939 - api - INFO - Pre-translation dedup: Reduced to 2 sentences.
+2025-10-01 20:02:44,660 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:02:44,661 - api - INFO - Translation successful: Generated 2 Telugu sentences.
+2025-10-01 20:02:44,661 - api - INFO - Orchestrator finished.
+2025-10-01 20:02:44,662 - api - INFO - Closing stream generator.
+2025-10-01 20:03:16,410 - api - INFO - Session: session_1759328866539, Question: 'explainme the GOVERNMENT ORDERS'
+2025-10-01 20:03:21,067 - api - INFO - Intent classified as: 'informational'
+2025-10-01 20:03:21,726 - api - INFO - Deduplicated docs: Went from 1 to 1 unique documents.
+2025-10-01 20:03:21,726 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 20:03:30,222 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:03:30,222 - api - INFO - Translating full answer to Telugu...
+2025-10-01 20:03:30,223 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:03:30,224 - api - INFO - Pre-translation dedup: Reduced to 2 sentences.
+2025-10-01 20:03:40,355 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:03:40,355 - api - INFO - Translation successful: Generated 2 Telugu sentences.
+2025-10-01 20:03:40,356 - api - INFO - Orchestrator finished.
+2025-10-01 20:03:40,356 - api - INFO - Closing stream generator.
+2025-10-01 20:04:14,881 - api - INFO - Session: session_1759329251704, Question: 'Who is eligible for the Indiramma Housing Scheme?'
+2025-10-01 20:04:16,602 - api - INFO - Intent classified as: 'informational'
+2025-10-01 20:04:17,076 - api - INFO - Deduplicated docs: Went from 1 to 1 unique documents.
+2025-10-01 20:04:17,076 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 20:04:19,223 - api - INFO - Stream cancelled by client.
+2025-10-01 20:04:19,224 - api - INFO - Closing stream generator.
+2025-10-01 20:04:19,992 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:04:19,993 - api - INFO - Translating full answer to Telugu...
+2025-10-01 20:04:19,993 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:04:19,994 - api - INFO - Pre-translation dedup: Reduced to 2 sentences.
+2025-10-01 20:04:30,320 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:04:30,320 - api - INFO - Translation successful: Generated 2 Telugu sentences.
+2025-10-01 20:04:30,321 - api - INFO - Orchestrator finished.
+2025-10-01 20:07:40,107 - api - INFO - Session: session_1759329458775, Question: 'What is the Indiramma Indlu scheme?'
+2025-10-01 20:07:42,570 - api - INFO - Intent classified as: 'informational'
+2025-10-01 20:07:43,064 - api - INFO - Deduplicated docs: Went from 1 to 1 unique documents.
+2025-10-01 20:07:43,065 - api - INFO - Deduplicated text: Reduced from 1 to 1 sentences.
+2025-10-01 20:07:56,451 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:07:56,451 - api - INFO - Translating full answer to Telugu...
+2025-10-01 20:07:56,452 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:07:56,453 - api - INFO - Pre-translation dedup: Reduced to 2 sentences.
+2025-10-01 20:08:05,857 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:08:05,858 - api - INFO - Translation successful: Generated 2 Telugu sentences.
+2025-10-01 20:08:05,858 - api - INFO - Orchestrator finished.
+2025-10-01 20:08:05,859 - api - INFO - Closing stream generator.
+2025-10-01 20:12:48,712 - api - INFO - Server starting up...
+2025-10-01 20:12:54,716 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:13:06,554 - api - INFO - Server starting up...
+2025-10-01 20:13:51,992 - main_ingestion - INFO - Starting database update process...
+2025-10-01 20:13:51,992 - main_ingestion - INFO - Found 2 previously processed file(s).
+2025-10-01 20:13:51,992 - main_ingestion - INFO - Found 1 PDF(s) in the data directory: INDRAMMA INDLU NEW30thAug2025.pdf
+2025-10-01 20:13:51,993 - main_ingestion - INFO - Database is up-to-date. No new documents to add.
+2025-10-01 20:13:51,993 - main_ingestion - INFO - Database update process finished.
+2025-10-01 20:14:15,243 - main_ingestion - INFO - Starting database update process...
+2025-10-01 20:14:15,244 - main_ingestion - INFO - Found 1 previously processed file(s).
+2025-10-01 20:14:15,244 - main_ingestion - INFO - Found 1 PDF(s) in the data directory: INDRAMMA INDLU NEW30thAug2025.pdf
+2025-10-01 20:14:15,244 - main_ingestion - INFO - Found 1 new document(s) to process: INDRAMMA INDLU NEW30thAug2025.pdf
+2025-10-01 20:14:15,244 - main_ingestion - INFO - Processing 'INDRAMMA INDLU NEW30thAug2025.pdf'...
+2025-10-01 20:14:17,504 - main_ingestion - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 20:14:17,504 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,504 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,505 - main_ingestion - INFO - Cleaned text: 94 lines retained from 122
+2025-10-01 20:14:17,506 - main_ingestion - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 20:14:17,506 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,506 - main_ingestion - INFO - Cleaned text: 91 lines retained from 139
+2025-10-01 20:14:17,507 - main_ingestion - INFO - Cleaned text: 9 lines retained from 19
+2025-10-01 20:14:17,507 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,508 - main_ingestion - INFO - Cleaned text: 93 lines retained from 122
+2025-10-01 20:14:17,508 - main_ingestion - INFO - Cleaned text: 3 lines retained from 9
+2025-10-01 20:14:17,508 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,509 - main_ingestion - INFO - Cleaned text: 102 lines retained from 128
+2025-10-01 20:14:17,509 - main_ingestion - INFO - Cleaned text: 1 lines retained from 8
+2025-10-01 20:14:17,509 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,510 - main_ingestion - INFO - Cleaned text: 82 lines retained from 92
+2025-10-01 20:14:17,510 - main_ingestion - INFO - Cleaned text: 4 lines retained from 9
+2025-10-01 20:14:17,510 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,510 - main_ingestion - INFO - Cleaned text: 28 lines retained from 32
+2025-10-01 20:14:17,510 - main_ingestion - INFO - Cleaned text: 6 lines retained from 7
+2025-10-01 20:14:17,511 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,511 - main_ingestion - INFO - Cleaned text: 5 lines retained from 7
+2025-10-01 20:14:17,511 - main_ingestion - INFO - Cleaned text: 65 lines retained from 66
+2025-10-01 20:14:17,511 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,511 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,512 - main_ingestion - INFO - Cleaned text: 40 lines retained from 41
+2025-10-01 20:14:17,512 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,512 - main_ingestion - INFO - Cleaned text: 34 lines retained from 36
+2025-10-01 20:14:17,513 - main_ingestion - INFO - Cleaned text: 35 lines retained from 36
+2025-10-01 20:14:17,513 - main_ingestion - INFO - Cleaned text: 34 lines retained from 35
+2025-10-01 20:14:17,513 - main_ingestion - INFO - Cleaned text: 24 lines retained from 25
+2025-10-01 20:14:17,513 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,514 - main_ingestion - INFO - Cleaned text: 13 lines retained from 26
+2025-10-01 20:14:17,514 - main_ingestion - INFO - Cleaned text: 3 lines retained from 6
+2025-10-01 20:14:17,514 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,514 - main_ingestion - INFO - Cleaned text: 29 lines retained from 30
+2025-10-01 20:14:17,514 - main_ingestion - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 20:14:17,514 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,515 - main_ingestion - INFO - Cleaned text: 27 lines retained from 28
+2025-10-01 20:14:17,515 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,515 - main_ingestion - INFO - Cleaned text: 10 lines retained from 11
+2025-10-01 20:14:17,515 - main_ingestion - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 20:14:17,515 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,515 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,516 - main_ingestion - INFO - Cleaned text: 36 lines retained from 39
+2025-10-01 20:14:17,516 - main_ingestion - INFO - Cleaned text: 46 lines retained from 47
+2025-10-01 20:14:17,517 - main_ingestion - INFO - Cleaned text: 35 lines retained from 36
+2025-10-01 20:14:17,517 - main_ingestion - INFO - Cleaned text: 8 lines retained from 11
+2025-10-01 20:14:17,517 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,517 - main_ingestion - INFO - Cleaned text: 24 lines retained from 26
+2025-10-01 20:14:17,517 - main_ingestion - INFO - Cleaned text: 47 lines retained from 53
+2025-10-01 20:14:17,518 - main_ingestion - INFO - Cleaned text: 34 lines retained from 36
+2025-10-01 20:14:17,518 - main_ingestion - INFO - Cleaned text: 21 lines retained from 22
+2025-10-01 20:14:17,518 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,518 - main_ingestion - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 20:14:17,519 - main_ingestion - INFO - Cleaned text: 10 lines retained from 11
+2025-10-01 20:14:17,519 - main_ingestion - INFO - Cleaned text: 34 lines retained from 36
+2025-10-01 20:14:17,519 - main_ingestion - INFO - Cleaned text: 9 lines retained from 10
+2025-10-01 20:14:17,519 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,520 - main_ingestion - INFO - Cleaned text: 28 lines retained from 29
+2025-10-01 20:14:17,520 - main_ingestion - INFO - Cleaned text: 28 lines retained from 30
+2025-10-01 20:14:17,520 - main_ingestion - INFO - Cleaned text: 12 lines retained from 13
+2025-10-01 20:14:17,520 - main_ingestion - INFO - Cleaned text: 7 lines retained from 9
+2025-10-01 20:14:17,520 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,520 - main_ingestion - INFO - Cleaned text: 24 lines retained from 25
+2025-10-01 20:14:17,521 - main_ingestion - INFO - Cleaned text: 8 lines retained from 9
+2025-10-01 20:14:17,521 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,521 - main_ingestion - INFO - Cleaned text: 23 lines retained from 24
+2025-10-01 20:14:17,521 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,521 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,521 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,521 - main_ingestion - INFO - Cleaned text: 14 lines retained from 15
+2025-10-01 20:14:17,522 - main_ingestion - INFO - Cleaned text: 41 lines retained from 43
+2025-10-01 20:14:17,522 - main_ingestion - INFO - Cleaned text: 19 lines retained from 20
+2025-10-01 20:14:17,522 - main_ingestion - INFO - Cleaned text: 37 lines retained from 38
+2025-10-01 20:14:17,522 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,523 - main_ingestion - INFO - Cleaned text: 41 lines retained from 42
+2025-10-01 20:14:17,523 - main_ingestion - INFO - Cleaned text: 40 lines retained from 43
+2025-10-01 20:14:17,524 - main_ingestion - INFO - Cleaned text: 53 lines retained from 61
+2025-10-01 20:14:17,524 - main_ingestion - INFO - Cleaned text: 9 lines retained from 10
+2025-10-01 20:14:17,525 - main_ingestion - INFO - Cleaned text: 14 lines retained from 19
+2025-10-01 20:14:17,525 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,525 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,525 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,525 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,525 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,525 - main_ingestion - INFO - Cleaned text: 7 lines retained from 8
+2025-10-01 20:14:17,526 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,526 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,526 - main_ingestion - INFO - Cleaned text: 5 lines retained from 6
+2025-10-01 20:14:17,526 - main_ingestion - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 20:14:17,526 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,526 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,526 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,526 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,527 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,527 - main_ingestion - INFO - Cleaned text: 23 lines retained from 29
+2025-10-01 20:14:17,527 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,527 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,527 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,527 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,527 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,527 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,527 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,528 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,528 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,528 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,528 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,528 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,528 - main_ingestion - INFO - Cleaned text: 3 lines retained from 4
+2025-10-01 20:14:17,528 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,528 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,528 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,529 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,529 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,529 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,529 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,529 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,529 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,529 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,530 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,530 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,530 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,530 - main_ingestion - INFO - Cleaned text: 5 lines retained from 6
+2025-10-01 20:14:17,530 - main_ingestion - INFO - Cleaned text: 16 lines retained from 17
+2025-10-01 20:14:17,530 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,531 - main_ingestion - INFO - Cleaned text: 36 lines retained from 37
+2025-10-01 20:14:17,531 - main_ingestion - INFO - Cleaned text: 30 lines retained from 31
+2025-10-01 20:14:17,531 - main_ingestion - INFO - Cleaned text: 27 lines retained from 30
+2025-10-01 20:14:17,531 - main_ingestion - INFO - Cleaned text: 2 lines retained from 5
+2025-10-01 20:14:17,532 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,532 - main_ingestion - INFO - Cleaned text: 30 lines retained from 31
+2025-10-01 20:14:17,532 - main_ingestion - INFO - Cleaned text: 25 lines retained from 26
+2025-10-01 20:14:17,532 - main_ingestion - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 20:14:17,532 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,532 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,533 - main_ingestion - INFO - Cleaned text: 28 lines retained from 32
+2025-10-01 20:14:17,533 - main_ingestion - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 20:14:17,533 - main_ingestion - INFO - Cleaned text: 29 lines retained from 30
+2025-10-01 20:14:17,533 - main_ingestion - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 20:14:17,534 - main_ingestion - INFO - Cleaned text: 30 lines retained from 31
+2025-10-01 20:14:17,534 - main_ingestion - INFO - Cleaned text: 15 lines retained from 18
+2025-10-01 20:14:17,534 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,534 - main_ingestion - INFO - Cleaned text: 35 lines retained from 38
+2025-10-01 20:14:17,535 - main_ingestion - INFO - Cleaned text: 34 lines retained from 35
+2025-10-01 20:14:17,535 - main_ingestion - INFO - Cleaned text: 28 lines retained from 29
+2025-10-01 20:14:17,535 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,535 - main_ingestion - INFO - Cleaned text: 39 lines retained from 40
+2025-10-01 20:14:17,536 - main_ingestion - INFO - Cleaned text: 9 lines retained from 10
+2025-10-01 20:14:17,536 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,536 - main_ingestion - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 20:14:17,536 - main_ingestion - INFO - Cleaned text: 10 lines retained from 11
+2025-10-01 20:14:17,536 - main_ingestion - INFO - Cleaned text: 33 lines retained from 34
+2025-10-01 20:14:17,537 - main_ingestion - INFO - Cleaned text: 27 lines retained from 28
+2025-10-01 20:14:17,537 - main_ingestion - INFO - Cleaned text: 28 lines retained from 32
+2025-10-01 20:14:17,537 - main_ingestion - INFO - Cleaned text: 27 lines retained from 28
+2025-10-01 20:14:17,537 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,538 - main_ingestion - INFO - Cleaned text: 19 lines retained from 26
+2025-10-01 20:14:17,538 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,538 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,538 - main_ingestion - INFO - Cleaned text: 33 lines retained from 34
+2025-10-01 20:14:17,538 - main_ingestion - INFO - Cleaned text: 24 lines retained from 25
+2025-10-01 20:14:17,539 - main_ingestion - INFO - Cleaned text: 23 lines retained from 24
+2025-10-01 20:14:17,539 - main_ingestion - INFO - Cleaned text: 22 lines retained from 23
+2025-10-01 20:14:17,539 - main_ingestion - INFO - Cleaned text: 19 lines retained from 20
+2025-10-01 20:14:17,539 - main_ingestion - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 20:14:17,540 - main_ingestion - INFO - Cleaned text: 12 lines retained from 13
+2025-10-01 20:14:17,540 - main_ingestion - INFO - Cleaned text: 30 lines retained from 31
+2025-10-01 20:14:17,540 - main_ingestion - INFO - Cleaned text: 30 lines retained from 34
+2025-10-01 20:14:17,541 - main_ingestion - INFO - Cleaned text: 0 lines retained from 6
+2025-10-01 20:14:17,541 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,541 - main_ingestion - INFO - Cleaned text: 39 lines retained from 40
+2025-10-01 20:14:17,541 - main_ingestion - INFO - Cleaned text: 8 lines retained from 9
+2025-10-01 20:14:17,542 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,542 - main_ingestion - INFO - Cleaned text: 29 lines retained from 30
+2025-10-01 20:14:17,542 - main_ingestion - INFO - Cleaned text: 13 lines retained from 14
+2025-10-01 20:14:17,542 - main_ingestion - INFO - Cleaned text: 13 lines retained from 16
+2025-10-01 20:14:17,542 - main_ingestion - INFO - Cleaned text: 13 lines retained from 14
+2025-10-01 20:14:17,543 - main_ingestion - INFO - Cleaned text: 36 lines retained from 37
+2025-10-01 20:14:17,543 - main_ingestion - INFO - Cleaned text: 37 lines retained from 39
+2025-10-01 20:14:17,544 - main_ingestion - INFO - Cleaned text: 27 lines retained from 32
+2025-10-01 20:14:17,544 - main_ingestion - INFO - Cleaned text: 29 lines retained from 33
+2025-10-01 20:14:17,544 - main_ingestion - INFO - Cleaned text: 28 lines retained from 32
+2025-10-01 20:14:17,544 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,544 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,545 - main_ingestion - INFO - Cleaned text: 25 lines retained from 30
+2025-10-01 20:14:17,545 - main_ingestion - INFO - Cleaned text: 0 lines retained from 4
+2025-10-01 20:14:17,545 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,545 - main_ingestion - INFO - Cleaned text: 28 lines retained from 29
+2025-10-01 20:14:17,545 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,545 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,546 - main_ingestion - INFO - Cleaned text: 19 lines retained from 22
+2025-10-01 20:14:17,546 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,546 - main_ingestion - INFO - Cleaned text: 29 lines retained from 30
+2025-10-01 20:14:17,546 - main_ingestion - INFO - Cleaned text: 14 lines retained from 17
+2025-10-01 20:14:17,546 - main_ingestion - INFO - Cleaned text: 29 lines retained from 31
+2025-10-01 20:14:17,546 - main_ingestion - INFO - Cleaned text: 6 lines retained from 7
+2025-10-01 20:14:17,547 - main_ingestion - INFO - Cleaned text: 23 lines retained from 27
+2025-10-01 20:14:17,547 - main_ingestion - INFO - Cleaned text: 30 lines retained from 33
+2025-10-01 20:14:17,547 - main_ingestion - INFO - Cleaned text: 29 lines retained from 30
+2025-10-01 20:14:17,547 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,548 - main_ingestion - INFO - Cleaned text: 99 lines retained from 102
+2025-10-01 20:14:17,548 - main_ingestion - INFO - Cleaned text: 2 lines retained from 5
+2025-10-01 20:14:17,548 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,548 - main_ingestion - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 20:14:17,549 - main_ingestion - INFO - Cleaned text: 27 lines retained from 32
+2025-10-01 20:14:17,549 - main_ingestion - INFO - Cleaned text: 35 lines retained from 37
+2025-10-01 20:14:17,549 - main_ingestion - INFO - Cleaned text: 28 lines retained from 29
+2025-10-01 20:14:17,549 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,550 - main_ingestion - INFO - Cleaned text: 23 lines retained from 24
+2025-10-01 20:14:17,550 - main_ingestion - INFO - Cleaned text: 5 lines retained from 8
+2025-10-01 20:14:17,550 - main_ingestion - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 20:14:17,550 - main_ingestion - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 20:14:17,551 - main_ingestion - INFO - Cleaned text: 26 lines retained from 32
+2025-10-01 20:14:17,551 - main_ingestion - INFO - Cleaned text: 24 lines retained from 25
+2025-10-01 20:14:17,552 - main_ingestion - INFO - Cleaned text: 52 lines retained from 53
+2025-10-01 20:14:17,552 - main_ingestion - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 20:14:17,552 - main_ingestion - INFO - Cleaned text: 88 lines retained from 90
+2025-10-01 20:14:17,553 - main_ingestion - INFO - Cleaned text: 12 lines retained from 15
+2025-10-01 20:14:17,553 - main_ingestion - INFO - Cleaned text: 17 lines retained from 21
+2025-10-01 20:14:17,553 - main_ingestion - INFO - Cleaned text: 21 lines retained from 29
+2025-10-01 20:14:17,553 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,553 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,553 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,553 - main_ingestion - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 20:14:17,554 - main_ingestion - INFO - Cleaned text: 29 lines retained from 36
+2025-10-01 20:14:17,554 - main_ingestion - INFO - Cleaned text: 22 lines retained from 29
+2025-10-01 20:14:17,554 - main_ingestion - INFO - Cleaned text: 27 lines retained from 30
+2025-10-01 20:14:17,555 - main_ingestion - INFO - Cleaned text: 51 lines retained from 62
+2025-10-01 20:14:17,555 - main_ingestion - INFO - Cleaned text: 26 lines retained from 27
+2025-10-01 20:14:17,555 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,555 - main_ingestion - INFO - Cleaned text: 34 lines retained from 36
+2025-10-01 20:14:17,556 - main_ingestion - INFO - Cleaned text: 50 lines retained from 53
+2025-10-01 20:14:17,556 - main_ingestion - INFO - Cleaned text: 44 lines retained from 50
+2025-10-01 20:14:17,557 - main_ingestion - INFO - Cleaned text: 12 lines retained from 13
+2025-10-01 20:14:17,557 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,558 - main_ingestion - INFO - Cleaned text: 57 lines retained from 66
+2025-10-01 20:14:17,558 - main_ingestion - INFO - Cleaned text: 3 lines retained from 4
+2025-10-01 20:14:17,558 - main_ingestion - INFO - Cleaned text: 14 lines retained from 19
+2025-10-01 20:14:17,558 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,559 - main_ingestion - INFO - Cleaned text: 30 lines retained from 32
+2025-10-01 20:14:17,559 - main_ingestion - INFO - Cleaned text: 71 lines retained from 73
+2025-10-01 20:14:17,560 - main_ingestion - INFO - Cleaned text: 22 lines retained from 24
+2025-10-01 20:14:17,560 - main_ingestion - INFO - Cleaned text: 20 lines retained from 23
+2025-10-01 20:14:17,560 - main_ingestion - INFO - Cleaned text: 41 lines retained from 42
+2025-10-01 20:14:17,561 - main_ingestion - INFO - Cleaned text: 36 lines retained from 42
+2025-10-01 20:14:17,561 - main_ingestion - INFO - Cleaned text: 8 lines retained from 9
+2025-10-01 20:14:17,561 - main_ingestion - INFO - Cleaned text: 25 lines retained from 27
+2025-10-01 20:14:17,562 - main_ingestion - INFO - Cleaned text: 23 lines retained from 26
+2025-10-01 20:14:17,562 - main_ingestion - INFO - Cleaned text: 25 lines retained from 30
+2025-10-01 20:14:17,562 - main_ingestion - INFO - Cleaned text: 58 lines retained from 67
+2025-10-01 20:14:17,563 - main_ingestion - INFO - Cleaned text: 36 lines retained from 43
+2025-10-01 20:14:17,563 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,563 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,564 - main_ingestion - INFO - Cleaned text: 138 lines retained from 226
+2025-10-01 20:14:17,564 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,564 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,565 - main_ingestion - INFO - Cleaned text: 121 lines retained from 192
+2025-10-01 20:14:17,565 - main_ingestion - INFO - Cleaned text: 82 lines retained from 113
+2025-10-01 20:14:17,566 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,566 - main_ingestion - INFO - Cleaned text: 113 lines retained from 179
+2025-10-01 20:14:17,567 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,567 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,567 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,567 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,567 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,567 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,567 - main_ingestion - INFO - Cleaned text: 28 lines retained from 29
+2025-10-01 20:14:17,567 - main_ingestion - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 20:14:17,568 - main_ingestion - INFO - Cleaned text: 9 lines retained from 12
+2025-10-01 20:14:17,568 - main_ingestion - INFO - Cleaned text: 12 lines retained from 13
+2025-10-01 20:14:17,568 - main_ingestion - INFO - Cleaned text: 22 lines retained from 25
+2025-10-01 20:14:17,568 - main_ingestion - INFO - Cleaned text: 26 lines retained from 37
+2025-10-01 20:14:17,568 - main_ingestion - INFO - Cleaned text: 19 lines retained from 22
+2025-10-01 20:14:17,569 - main_ingestion - INFO - Cleaned text: 34 lines retained from 35
+2025-10-01 20:14:17,569 - main_ingestion - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 20:14:17,569 - main_ingestion - INFO - Cleaned text: 12 lines retained from 15
+2025-10-01 20:14:17,570 - main_ingestion - INFO - Cleaned text: 23 lines retained from 25
+2025-10-01 20:14:17,570 - main_ingestion - INFO - Cleaned text: 9 lines retained from 16
+2025-10-01 20:14:17,570 - main_ingestion - INFO - Cleaned text: 43 lines retained from 58
+2025-10-01 20:14:17,571 - main_ingestion - INFO - Cleaned text: 53 lines retained from 61
+2025-10-01 20:14:17,571 - main_ingestion - INFO - Cleaned text: 0 lines retained from 3
+2025-10-01 20:14:17,571 - main_ingestion - INFO - Cleaned text: 79 lines retained from 82
+2025-10-01 20:14:17,571 - main_ingestion - INFO - Cleaned text: 13 lines retained from 14
+2025-10-01 20:14:17,572 - main_ingestion - INFO - Cleaned text: 44 lines retained from 58
+2025-10-01 20:14:17,572 - main_ingestion - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 20:14:17,572 - main_ingestion - INFO - Cleaned text: 12 lines retained from 13
+2025-10-01 20:14:17,573 - main_ingestion - INFO - Cleaned text: 25 lines retained from 30
+2025-10-01 20:14:17,573 - main_ingestion - INFO - Cleaned text: 25 lines retained from 28
+2025-10-01 20:14:17,573 - main_ingestion - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 20:14:17,573 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,573 - main_ingestion - INFO - Cleaned text: 27 lines retained from 30
+2025-10-01 20:14:17,574 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,574 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,574 - main_ingestion - INFO - Cleaned text: 12 lines retained from 16
+2025-10-01 20:14:17,574 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,574 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,575 - main_ingestion - INFO - Cleaned text: 27 lines retained from 30
+2025-10-01 20:14:17,575 - main_ingestion - INFO - Cleaned text: 9 lines retained from 12
+2025-10-01 20:14:17,575 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,575 - main_ingestion - INFO - Cleaned text: 37 lines retained from 44
+2025-10-01 20:14:17,576 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,576 - main_ingestion - INFO - Cleaned text: 12 lines retained from 22
+2025-10-01 20:14:17,576 - main_ingestion - INFO - Cleaned text: 13 lines retained from 20
+2025-10-01 20:14:17,576 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,576 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,576 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,577 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,577 - main_ingestion - INFO - Cleaned text: 34 lines retained from 48
+2025-10-01 20:14:17,577 - main_ingestion - INFO - Cleaned text: 10 lines retained from 11
+2025-10-01 20:14:17,577 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,577 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,577 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,578 - main_ingestion - INFO - Cleaned text: 84 lines retained from 112
+2025-10-01 20:14:17,578 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,578 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,578 - main_ingestion - INFO - Cleaned text: 3 lines retained from 4
+2025-10-01 20:14:17,579 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,579 - main_ingestion - INFO - Cleaned text: 1 lines retained from 3
+2025-10-01 20:14:17,579 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,579 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,579 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,579 - main_ingestion - INFO - Cleaned text: 30 lines retained from 31
+2025-10-01 20:14:17,579 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,580 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,580 - main_ingestion - INFO - Cleaned text: 35 lines retained from 37
+2025-10-01 20:14:17,580 - main_ingestion - INFO - Cleaned text: 33 lines retained from 41
+2025-10-01 20:14:17,581 - main_ingestion - INFO - Cleaned text: 32 lines retained from 36
+2025-10-01 20:14:17,581 - main_ingestion - INFO - Cleaned text: 1 lines retained from 4
+2025-10-01 20:14:17,581 - main_ingestion - INFO - Cleaned text: 83 lines retained from 94
+2025-10-01 20:14:17,581 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,582 - main_ingestion - INFO - Cleaned text: 109 lines retained from 173
+2025-10-01 20:14:17,582 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,583 - main_ingestion - INFO - Cleaned text: 34 lines retained from 36
+2025-10-01 20:14:17,583 - main_ingestion - INFO - Cleaned text: 20 lines retained from 24
+2025-10-01 20:14:17,583 - main_ingestion - INFO - Cleaned text: 33 lines retained from 37
+2025-10-01 20:14:17,583 - main_ingestion - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 20:14:17,584 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,584 - main_ingestion - INFO - Cleaned text: 18 lines retained from 21
+2025-10-01 20:14:17,584 - main_ingestion - INFO - Cleaned text: 12 lines retained from 15
+2025-10-01 20:14:17,584 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,584 - main_ingestion - INFO - Cleaned text: 19 lines retained from 20
+2025-10-01 20:14:17,585 - main_ingestion - INFO - Cleaned text: 27 lines retained from 28
+2025-10-01 20:14:17,585 - main_ingestion - INFO - Cleaned text: 3 lines retained from 7
+2025-10-01 20:14:17,585 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,585 - main_ingestion - INFO - Cleaned text: 24 lines retained from 30
+2025-10-01 20:14:17,585 - main_ingestion - INFO - Cleaned text: 12 lines retained from 14
+2025-10-01 20:14:17,585 - main_ingestion - INFO - Cleaned text: 21 lines retained from 26
+2025-10-01 20:14:17,586 - main_ingestion - INFO - Cleaned text: 1 lines retained from 4
+2025-10-01 20:14:17,586 - main_ingestion - INFO - Cleaned text: 97 lines retained from 100
+2025-10-01 20:14:17,587 - main_ingestion - INFO - Cleaned text: 20 lines retained from 28
+2025-10-01 20:14:17,587 - main_ingestion - INFO - Cleaned text: 23 lines retained from 24
+2025-10-01 20:14:17,587 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,587 - main_ingestion - INFO - Cleaned text: 29 lines retained from 32
+2025-10-01 20:14:17,587 - main_ingestion - INFO - Cleaned text: 1 lines retained from 5
+2025-10-01 20:14:17,587 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,588 - main_ingestion - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 20:14:17,588 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,588 - main_ingestion - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 20:14:17,588 - main_ingestion - INFO - Cleaned text: 9 lines retained from 12
+2025-10-01 20:14:17,588 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,589 - main_ingestion - INFO - Cleaned text: 40 lines retained from 52
+2025-10-01 20:14:17,589 - main_ingestion - INFO - Cleaned text: 41 lines retained from 63
+2025-10-01 20:14:17,589 - main_ingestion - INFO - Cleaned text: 28 lines retained from 29
+2025-10-01 20:14:17,590 - main_ingestion - INFO - Cleaned text: 30 lines retained from 36
+2025-10-01 20:14:17,590 - main_ingestion - INFO - Cleaned text: 20 lines retained from 26
+2025-10-01 20:14:17,590 - main_ingestion - INFO - Cleaned text: 19 lines retained from 20
+2025-10-01 20:14:17,591 - main_ingestion - INFO - Cleaned text: 48 lines retained from 49
+2025-10-01 20:14:17,591 - main_ingestion - INFO - Cleaned text: 20 lines retained from 21
+2025-10-01 20:14:17,592 - main_ingestion - INFO - Cleaned text: 35 lines retained from 43
+2025-10-01 20:14:17,592 - main_ingestion - INFO - Cleaned text: 16 lines retained from 22
+2025-10-01 20:14:17,592 - main_ingestion - INFO - Cleaned text: 13 lines retained from 14
+2025-10-01 20:14:17,593 - main_ingestion - INFO - Cleaned text: 97 lines retained from 134
+2025-10-01 20:14:17,593 - main_ingestion - INFO - Cleaned text: 51 lines retained from 56
+2025-10-01 20:14:17,594 - main_ingestion - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 20:14:17,594 - main_ingestion - INFO - Cleaned text: 34 lines retained from 37
+2025-10-01 20:14:17,594 - main_ingestion - INFO - Cleaned text: 33 lines retained from 36
+2025-10-01 20:14:17,594 - main_ingestion - INFO - Cleaned text: 8 lines retained from 9
+2025-10-01 20:14:17,595 - main_ingestion - INFO - Cleaned text: 36 lines retained from 37
+2025-10-01 20:14:17,595 - main_ingestion - INFO - Cleaned text: 55 lines retained from 61
+2025-10-01 20:14:17,595 - main_ingestion - INFO - Cleaned text: 4 lines retained from 12
+2025-10-01 20:14:17,596 - main_ingestion - INFO - Cleaned text: 55 lines retained from 56
+2025-10-01 20:14:17,596 - main_ingestion - INFO - Cleaned text: 34 lines retained from 39
+2025-10-01 20:14:17,596 - main_ingestion - INFO - Cleaned text: 14 lines retained from 19
+2025-10-01 20:14:17,597 - main_ingestion - INFO - Cleaned text: 34 lines retained from 40
+2025-10-01 20:14:17,597 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,597 - main_ingestion - INFO - Cleaned text: 30 lines retained from 32
+2025-10-01 20:14:17,598 - main_ingestion - INFO - Cleaned text: 37 lines retained from 39
+2025-10-01 20:14:17,598 - main_ingestion - INFO - Cleaned text: 24 lines retained from 25
+2025-10-01 20:14:17,598 - main_ingestion - INFO - Cleaned text: 23 lines retained from 27
+2025-10-01 20:14:17,598 - main_ingestion - INFO - Cleaned text: 16 lines retained from 19
+2025-10-01 20:14:17,599 - main_ingestion - INFO - Cleaned text: 19 lines retained from 20
+2025-10-01 20:14:17,599 - main_ingestion - INFO - Cleaned text: 15 lines retained from 18
+2025-10-01 20:14:17,599 - main_ingestion - INFO - Cleaned text: 34 lines retained from 37
+2025-10-01 20:14:17,599 - main_ingestion - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 20:14:17,600 - main_ingestion - INFO - Cleaned text: 6 lines retained from 7
+2025-10-01 20:14:17,600 - main_ingestion - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 20:14:17,600 - main_ingestion - INFO - Cleaned text: 13 lines retained from 14
+2025-10-01 20:14:17,600 - main_ingestion - INFO - Cleaned text: 13 lines retained from 14
+2025-10-01 20:14:17,600 - main_ingestion - INFO - Cleaned text: 15 lines retained from 16
+2025-10-01 20:14:17,601 - main_ingestion - INFO - Cleaned text: 26 lines retained from 27
+2025-10-01 20:14:17,601 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,601 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,601 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,601 - main_ingestion - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 20:14:17,601 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,601 - main_ingestion - INFO - Cleaned text: 34 lines retained from 37
+2025-10-01 20:14:17,602 - main_ingestion - INFO - Cleaned text: 40 lines retained from 41
+2025-10-01 20:14:17,602 - main_ingestion - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 20:14:17,602 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,602 - main_ingestion - INFO - Cleaned text: 26 lines retained from 29
+2025-10-01 20:14:17,603 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,603 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,603 - main_ingestion - INFO - Cleaned text: 29 lines retained from 30
+2025-10-01 20:14:17,603 - main_ingestion - INFO - Cleaned text: 8 lines retained from 9
+2025-10-01 20:14:17,603 - main_ingestion - INFO - Cleaned text: 31 lines retained from 33
+2025-10-01 20:14:17,604 - main_ingestion - INFO - Cleaned text: 50 lines retained from 53
+2025-10-01 20:14:17,604 - main_ingestion - INFO - Cleaned text: 20 lines retained from 24
+2025-10-01 20:14:17,604 - main_ingestion - INFO - Cleaned text: 36 lines retained from 37
+2025-10-01 20:14:17,604 - main_ingestion - INFO - Cleaned text: 16 lines retained from 17
+2025-10-01 20:14:17,605 - main_ingestion - INFO - Cleaned text: 22 lines retained from 27
+2025-10-01 20:14:17,605 - main_ingestion - INFO - Cleaned text: 11 lines retained from 12
+2025-10-01 20:14:17,605 - main_ingestion - INFO - Cleaned text: 27 lines retained from 32
+2025-10-01 20:14:17,605 - main_ingestion - INFO - Cleaned text: 13 lines retained from 18
+2025-10-01 20:14:17,605 - main_ingestion - INFO - Cleaned text: 2 lines retained from 4
+2025-10-01 20:14:17,606 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,606 - main_ingestion - INFO - Cleaned text: 32 lines retained from 33
+2025-10-01 20:14:17,606 - main_ingestion - INFO - Cleaned text: 29 lines retained from 37
+2025-10-01 20:14:17,606 - main_ingestion - INFO - Cleaned text: 5 lines retained from 9
+2025-10-01 20:14:17,607 - main_ingestion - INFO - Cleaned text: 8 lines retained from 9
+2025-10-01 20:14:17,607 - main_ingestion - INFO - Cleaned text: 35 lines retained from 36
+2025-10-01 20:14:17,607 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,607 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,607 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,608 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:14:17,608 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,608 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,608 - main_ingestion - INFO - Cleaned text: 23 lines retained from 24
+2025-10-01 20:14:17,608 - main_ingestion - INFO - Cleaned text: 17 lines retained from 21
+2025-10-01 20:14:17,609 - main_ingestion - INFO - Cleaned text: 16 lines retained from 20
+2025-10-01 20:14:17,609 - main_ingestion - INFO - Cleaned text: 29 lines retained from 34
+2025-10-01 20:14:17,609 - main_ingestion - INFO - Cleaned text: 29 lines retained from 31
+2025-10-01 20:14:17,609 - main_ingestion - INFO - Cleaned text: 15 lines retained from 16
+2025-10-01 20:14:17,609 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,610 - main_ingestion - INFO - Cleaned text: 33 lines retained from 34
+2025-10-01 20:14:17,610 - main_ingestion - INFO - Cleaned text: 2 lines retained from 3
+2025-10-01 20:14:17,610 - main_ingestion - INFO - Cleaned text: 60 lines retained from 74
+2025-10-01 20:14:17,611 - main_ingestion - INFO - Cleaned text: 14 lines retained from 18
+2025-10-01 20:14:17,611 - main_ingestion - INFO - Cleaned text: 31 lines retained from 34
+2025-10-01 20:14:17,611 - main_ingestion - INFO - Cleaned text: 31 lines retained from 32
+2025-10-01 20:14:17,612 - main_ingestion - INFO - Cleaned text: 16 lines retained from 19
+2025-10-01 20:14:17,612 - main_ingestion - INFO - Cleaned text: 27 lines retained from 33
+2025-10-01 20:14:17,612 - main_ingestion - INFO - Cleaned text: 4 lines retained from 5
+2025-10-01 20:14:17,612 - main_ingestion - INFO - Cleaned text: 26 lines retained from 27
+2025-10-01 20:14:17,612 - main_ingestion - INFO - Cleaned text: 14 lines retained from 15
+2025-10-01 20:14:17,612 - main_ingestion - INFO - Cleaned text: 0 lines retained from 2
+2025-10-01 20:14:17,613 - main_ingestion - INFO - Cleaned text: 1 lines retained from 2
+2025-10-01 20:16:08,797 - main_ingestion - INFO - Deduplicated chunks: Reduced from 440 to 1 unique chunks.
+2025-10-01 20:16:08,803 - main_ingestion - INFO - Split 'INDRAMMA INDLU NEW30thAug2025.pdf' into 440 chunks (1 unique after deduplication).
+2025-10-01 20:16:08,803 - main_ingestion - INFO - Initializing vector store and embedding model...
+2025-10-01 20:16:08,988 - main_ingestion - INFO - Adding 1 new chunks to the database...
+2025-10-01 20:16:10,829 - main_ingestion - INFO - Added batch 1/1
+2025-10-01 20:16:10,829 - main_ingestion - INFO - Successfully added all new documents to the database.
+2025-10-01 20:16:10,830 - main_ingestion - INFO - Updated processed files log.
+2025-10-01 20:16:10,830 - main_ingestion - INFO - Database update process finished.
+2025-10-01 20:16:26,090 - api - INFO - Server starting up...
+2025-10-01 20:16:31,437 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:16:39,617 - api - INFO - Session: session_1759329997235, Question: 'What is the Indiramma Indlu scheme?'
+2025-10-01 20:16:43,777 - api - ERROR - Orchestrator error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "I:\ADS\Chat_bot_3\api.py", line 235, in orchestrate_and_stream
+    intent = (await intent_classifier_chain.ainvoke({"question": question})).strip().lower()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 3290, in ainvoke
+    input_ = await coro_with_context(part(), context, create_task=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 417, in ainvoke
+    llm_result = await self.agenerate_prompt(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1034, in agenerate_prompt
+    return await self.agenerate(
+           ^^^^^^^^^^^^^^^^^^^^^
+        prompt_messages, stop=stop, callbacks=callbacks, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 992, in agenerate
+    raise exceptions[0]
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1162, in _agenerate_with_cache
+    result = await self._agenerate(
+             ^^^^^^^^^^^^^^^^^^^^^^
+        messages, stop=stop, run_manager=run_manager, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 1010, in _agenerate
+    response: GenerateContentResponse = await _achat_with_retry(
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 229, in _achat_with_retry
+    return await _achat_with_retry(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 153, in iter
+    result = await action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 227, in _achat_with_retry
+    raise e
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 220, in _achat_with_retry
+    return await generation_method(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\async_client.py", line 440, in generate_content
+    response = await rpc(
+               ^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 231, in retry_wrapped_func
+    return await retry_target(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 163, in retry_target
+    next_sleep = _retry_error_helper(
+        exc,
+    ...<6 lines>...
+        timeout,
+    )
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 158, in retry_target
+    return await target()
+           ^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\grpc_helpers_async.py", line 88, in __await__
+    raise exceptions.from_grpc_error(rpc_error) from rpc_error
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-01 20:16:43,793 - api - INFO - Closing stream generator.
+2025-10-01 20:17:10,326 - api - INFO - Server starting up...
+2025-10-01 20:17:17,065 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:17:22,575 - api - INFO - Session: session_1759330041072, Question: 'What is the Indiramma Indlu scheme?'
+2025-10-01 20:17:27,315 - api - INFO - Intent classified as: 'informational'
+2025-10-01 20:17:38,479 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:17:38,480 - api - INFO - Translating full answer to Telugu...
+2025-10-01 20:17:38,481 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:17:38,481 - api - INFO - Pre-translation dedup: Reduced to 2 sentences.
+2025-10-01 20:17:49,714 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:17:49,715 - api - INFO - Translation successful: Generated 2 Telugu sentences.
+2025-10-01 20:17:49,715 - api - INFO - Orchestrator finished.
+2025-10-01 20:17:49,716 - api - INFO - Closing stream generator.
+2025-10-01 20:20:25,939 - api - INFO - Session: session_1759330223414, Question: 'Who is eligible for the Indiramma Housing Scheme?'
+2025-10-01 20:20:33,090 - api - INFO - Intent classified as: 'informational'
+2025-10-01 20:20:36,282 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:20:36,282 - api - INFO - Translating full answer to Telugu...
+2025-10-01 20:20:36,283 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:20:36,283 - api - INFO - Pre-translation dedup: Reduced to 2 sentences.
+2025-10-01 20:20:46,803 - api - INFO - Deduplicated text: Reduced from 2 to 2 sentences.
+2025-10-01 20:20:46,803 - api - INFO - Translation successful: Generated 2 Telugu sentences.
+2025-10-01 20:20:46,804 - api - INFO - Orchestrator finished.
+2025-10-01 20:20:46,804 - api - INFO - Closing stream generator.
+2025-10-01 20:21:43,261 - api - INFO - Server starting up...
+2025-10-01 20:21:49,228 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:27:45,337 - api - INFO - Session: session_1759330661459, Question: 'What is the Indiramma Indlu scheme?'
+2025-10-01 20:27:51,461 - api - ERROR - Orchestrator error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "I:\ADS\Chat_bot_3\api.py", line 165, in orchestrate_and_stream
+    intent = (await intent_classifier_chain.ainvoke({"question": question})).strip().lower()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 3290, in ainvoke
+    input_ = await coro_with_context(part(), context, create_task=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 417, in ainvoke
+    llm_result = await self.agenerate_prompt(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1034, in agenerate_prompt
+    return await self.agenerate(
+           ^^^^^^^^^^^^^^^^^^^^^
+        prompt_messages, stop=stop, callbacks=callbacks, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 992, in agenerate
+    raise exceptions[0]
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1162, in _agenerate_with_cache
+    result = await self._agenerate(
+             ^^^^^^^^^^^^^^^^^^^^^^
+        messages, stop=stop, run_manager=run_manager, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 1010, in _agenerate
+    response: GenerateContentResponse = await _achat_with_retry(
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 229, in _achat_with_retry
+    return await _achat_with_retry(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 153, in iter
+    result = await action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 227, in _achat_with_retry
+    raise e
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 220, in _achat_with_retry
+    return await generation_method(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\async_client.py", line 440, in generate_content
+    response = await rpc(
+               ^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 231, in retry_wrapped_func
+    return await retry_target(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 163, in retry_target
+    next_sleep = _retry_error_helper(
+        exc,
+    ...<6 lines>...
+        timeout,
+    )
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 158, in retry_target
+    return await target()
+           ^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\grpc_helpers_async.py", line 88, in __await__
+    raise exceptions.from_grpc_error(rpc_error) from rpc_error
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-01 20:27:51,475 - api - INFO - Closing stream generator.
+2025-10-01 20:28:21,450 - api - INFO - Server starting up...
+2025-10-01 20:28:31,482 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:28:36,775 - api - INFO - Session: session_1759330715249, Question: 'Who is eligible for the Indiramma Housing Scheme?'
+2025-10-01 20:28:41,244 - api - INFO - Intent classified as: 'informational'
+2025-10-01 20:28:45,751 - api - INFO - Translating final answer to Telugu...
+2025-10-01 20:29:02,164 - api - INFO - Orchestrator finished successfully.
+2025-10-01 20:29:02,165 - api - INFO - Closing stream generator.
+2025-10-01 20:29:21,977 - api - INFO - Session: session_1759330760356, Question: 'What is the Indiramma Indlu scheme?'
+2025-10-01 20:29:27,676 - api - INFO - Intent classified as: 'informational'
+2025-10-01 20:29:32,276 - api - INFO - Translating final answer to Telugu...
+2025-10-01 20:29:41,607 - api - INFO - Orchestrator finished successfully.
+2025-10-01 20:29:41,608 - api - INFO - Closing stream generator.
+2025-10-01 20:35:07,964 - main_ingestion - INFO - Starting database update process...
+2025-10-01 20:35:07,964 - main_ingestion - INFO - Found 1 previously processed file(s).
+2025-10-01 20:35:07,964 - main_ingestion - INFO - Found 1 PDF(s) in the data directory: INDRAMMA INDLU NEW30thAug2025.pdf
+2025-10-01 20:35:07,965 - main_ingestion - INFO - Found 1 new document(s) to process: INDRAMMA INDLU NEW30thAug2025.pdf
+2025-10-01 20:35:07,965 - main_ingestion - INFO - Processing 'INDRAMMA INDLU NEW30thAug2025.pdf'...
+2025-10-01 20:35:10,368 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,369 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,369 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,369 - main_ingestion - INFO - Cleaned text: Retained 121 lines.
+2025-10-01 20:35:10,370 - main_ingestion - INFO - Cleaned text: Retained 11 lines.
+2025-10-01 20:35:10,370 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,370 - main_ingestion - INFO - Cleaned text: Retained 138 lines.
+2025-10-01 20:35:10,371 - main_ingestion - INFO - Cleaned text: Retained 18 lines.
+2025-10-01 20:35:10,371 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,371 - main_ingestion - INFO - Cleaned text: Retained 121 lines.
+2025-10-01 20:35:10,371 - main_ingestion - INFO - Cleaned text: Retained 8 lines.
+2025-10-01 20:35:10,372 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,372 - main_ingestion - INFO - Cleaned text: Retained 127 lines.
+2025-10-01 20:35:10,372 - main_ingestion - INFO - Cleaned text: Retained 7 lines.
+2025-10-01 20:35:10,372 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,373 - main_ingestion - INFO - Cleaned text: Retained 91 lines.
+2025-10-01 20:35:10,373 - main_ingestion - INFO - Cleaned text: Retained 8 lines.
+2025-10-01 20:35:10,373 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,373 - main_ingestion - INFO - Cleaned text: Retained 30 lines.
+2025-10-01 20:35:10,374 - main_ingestion - INFO - Cleaned text: Retained 6 lines.
+2025-10-01 20:35:10,374 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,374 - main_ingestion - INFO - Cleaned text: Retained 5 lines.
+2025-10-01 20:35:10,374 - main_ingestion - INFO - Cleaned text: Retained 65 lines.
+2025-10-01 20:35:10,374 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,375 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,375 - main_ingestion - INFO - Cleaned text: Retained 40 lines.
+2025-10-01 20:35:10,375 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,376 - main_ingestion - INFO - Cleaned text: Retained 34 lines.
+2025-10-01 20:35:10,376 - main_ingestion - INFO - Cleaned text: Retained 35 lines.
+2025-10-01 20:35:10,376 - main_ingestion - INFO - Cleaned text: Retained 34 lines.
+2025-10-01 20:35:10,376 - main_ingestion - INFO - Cleaned text: Retained 24 lines.
+2025-10-01 20:35:10,376 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,376 - main_ingestion - INFO - Cleaned text: Retained 25 lines.
+2025-10-01 20:35:10,377 - main_ingestion - INFO - Cleaned text: Retained 5 lines.
+2025-10-01 20:35:10,377 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,377 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,377 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,377 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,377 - main_ingestion - INFO - Cleaned text: Retained 27 lines.
+2025-10-01 20:35:10,377 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,377 - main_ingestion - INFO - Cleaned text: Retained 10 lines.
+2025-10-01 20:35:10,377 - main_ingestion - INFO - Cleaned text: Retained 11 lines.
+2025-10-01 20:35:10,378 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,378 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,378 - main_ingestion - INFO - Cleaned text: Retained 37 lines.
+2025-10-01 20:35:10,378 - main_ingestion - INFO - Cleaned text: Retained 46 lines.
+2025-10-01 20:35:10,378 - main_ingestion - INFO - Cleaned text: Retained 35 lines.
+2025-10-01 20:35:10,378 - main_ingestion - INFO - Cleaned text: Retained 10 lines.
+2025-10-01 20:35:10,378 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,379 - main_ingestion - INFO - Cleaned text: Retained 24 lines.
+2025-10-01 20:35:10,379 - main_ingestion - INFO - Cleaned text: Retained 52 lines.
+2025-10-01 20:35:10,379 - main_ingestion - INFO - Cleaned text: Retained 34 lines.
+2025-10-01 20:35:10,379 - main_ingestion - INFO - Cleaned text: Retained 21 lines.
+2025-10-01 20:35:10,379 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,380 - main_ingestion - INFO - Cleaned text: Retained 32 lines.
+2025-10-01 20:35:10,380 - main_ingestion - INFO - Cleaned text: Retained 10 lines.
+2025-10-01 20:35:10,380 - main_ingestion - INFO - Cleaned text: Retained 34 lines.
+2025-10-01 20:35:10,380 - main_ingestion - INFO - Cleaned text: Retained 9 lines.
+2025-10-01 20:35:10,380 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,380 - main_ingestion - INFO - Cleaned text: Retained 28 lines.
+2025-10-01 20:35:10,380 - main_ingestion - INFO - Cleaned text: Retained 28 lines.
+2025-10-01 20:35:10,381 - main_ingestion - INFO - Cleaned text: Retained 12 lines.
+2025-10-01 20:35:10,381 - main_ingestion - INFO - Cleaned text: Retained 7 lines.
+2025-10-01 20:35:10,381 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,381 - main_ingestion - INFO - Cleaned text: Retained 24 lines.
+2025-10-01 20:35:10,381 - main_ingestion - INFO - Cleaned text: Retained 8 lines.
+2025-10-01 20:35:10,381 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,381 - main_ingestion - INFO - Cleaned text: Retained 23 lines.
+2025-10-01 20:35:10,381 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,381 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,382 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,382 - main_ingestion - INFO - Cleaned text: Retained 14 lines.
+2025-10-01 20:35:10,382 - main_ingestion - INFO - Cleaned text: Retained 42 lines.
+2025-10-01 20:35:10,382 - main_ingestion - INFO - Cleaned text: Retained 19 lines.
+2025-10-01 20:35:10,382 - main_ingestion - INFO - Cleaned text: Retained 37 lines.
+2025-10-01 20:35:10,382 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,382 - main_ingestion - INFO - Cleaned text: Retained 41 lines.
+2025-10-01 20:35:10,383 - main_ingestion - INFO - Cleaned text: Retained 42 lines.
+2025-10-01 20:35:10,383 - main_ingestion - INFO - Cleaned text: Retained 60 lines.
+2025-10-01 20:35:10,383 - main_ingestion - INFO - Cleaned text: Retained 9 lines.
+2025-10-01 20:35:10,383 - main_ingestion - INFO - Cleaned text: Retained 18 lines.
+2025-10-01 20:35:10,384 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,384 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,384 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,384 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,384 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,384 - main_ingestion - INFO - Cleaned text: Retained 7 lines.
+2025-10-01 20:35:10,385 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,385 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,385 - main_ingestion - INFO - Cleaned text: Retained 5 lines.
+2025-10-01 20:35:10,385 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,385 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,385 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,385 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,386 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,386 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,386 - main_ingestion - INFO - Cleaned text: Retained 28 lines.
+2025-10-01 20:35:10,386 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,386 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,386 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,386 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,386 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,386 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,386 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,386 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,386 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,387 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,387 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,387 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,387 - main_ingestion - INFO - Cleaned text: Retained 3 lines.
+2025-10-01 20:35:10,387 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,387 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,387 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,387 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,387 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,387 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,387 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,387 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,388 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,388 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,388 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,388 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,388 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,388 - main_ingestion - INFO - Cleaned text: Retained 5 lines.
+2025-10-01 20:35:10,388 - main_ingestion - INFO - Cleaned text: Retained 16 lines.
+2025-10-01 20:35:10,388 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,389 - main_ingestion - INFO - Cleaned text: Retained 36 lines.
+2025-10-01 20:35:10,389 - main_ingestion - INFO - Cleaned text: Retained 30 lines.
+2025-10-01 20:35:10,389 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,389 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,389 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,389 - main_ingestion - INFO - Cleaned text: Retained 30 lines.
+2025-10-01 20:35:10,390 - main_ingestion - INFO - Cleaned text: Retained 25 lines.
+2025-10-01 20:35:10,390 - main_ingestion - INFO - Cleaned text: Retained 11 lines.
+2025-10-01 20:35:10,390 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,390 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,390 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,390 - main_ingestion - INFO - Cleaned text: Retained 11 lines.
+2025-10-01 20:35:10,390 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,391 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,391 - main_ingestion - INFO - Cleaned text: Retained 30 lines.
+2025-10-01 20:35:10,391 - main_ingestion - INFO - Cleaned text: Retained 17 lines.
+2025-10-01 20:35:10,391 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,391 - main_ingestion - INFO - Cleaned text: Retained 36 lines.
+2025-10-01 20:35:10,391 - main_ingestion - INFO - Cleaned text: Retained 34 lines.
+2025-10-01 20:35:10,391 - main_ingestion - INFO - Cleaned text: Retained 28 lines.
+2025-10-01 20:35:10,392 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,392 - main_ingestion - INFO - Cleaned text: Retained 39 lines.
+2025-10-01 20:35:10,392 - main_ingestion - INFO - Cleaned text: Retained 9 lines.
+2025-10-01 20:35:10,392 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,392 - main_ingestion - INFO - Cleaned text: Retained 32 lines.
+2025-10-01 20:35:10,392 - main_ingestion - INFO - Cleaned text: Retained 10 lines.
+2025-10-01 20:35:10,392 - main_ingestion - INFO - Cleaned text: Retained 33 lines.
+2025-10-01 20:35:10,393 - main_ingestion - INFO - Cleaned text: Retained 27 lines.
+2025-10-01 20:35:10,393 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,393 - main_ingestion - INFO - Cleaned text: Retained 27 lines.
+2025-10-01 20:35:10,393 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,393 - main_ingestion - INFO - Cleaned text: Retained 25 lines.
+2025-10-01 20:35:10,393 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,393 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,394 - main_ingestion - INFO - Cleaned text: Retained 33 lines.
+2025-10-01 20:35:10,394 - main_ingestion - INFO - Cleaned text: Retained 24 lines.
+2025-10-01 20:35:10,394 - main_ingestion - INFO - Cleaned text: Retained 23 lines.
+2025-10-01 20:35:10,394 - main_ingestion - INFO - Cleaned text: Retained 22 lines.
+2025-10-01 20:35:10,394 - main_ingestion - INFO - Cleaned text: Retained 19 lines.
+2025-10-01 20:35:10,395 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,395 - main_ingestion - INFO - Cleaned text: Retained 12 lines.
+2025-10-01 20:35:10,395 - main_ingestion - INFO - Cleaned text: Retained 30 lines.
+2025-10-01 20:35:10,395 - main_ingestion - INFO - Cleaned text: Retained 32 lines.
+2025-10-01 20:35:10,395 - main_ingestion - INFO - Cleaned text: Retained 5 lines.
+2025-10-01 20:35:10,395 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,396 - main_ingestion - INFO - Cleaned text: Retained 39 lines.
+2025-10-01 20:35:10,396 - main_ingestion - INFO - Cleaned text: Retained 8 lines.
+2025-10-01 20:35:10,396 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,396 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,396 - main_ingestion - INFO - Cleaned text: Retained 13 lines.
+2025-10-01 20:35:10,396 - main_ingestion - INFO - Cleaned text: Retained 15 lines.
+2025-10-01 20:35:10,396 - main_ingestion - INFO - Cleaned text: Retained 13 lines.
+2025-10-01 20:35:10,397 - main_ingestion - INFO - Cleaned text: Retained 36 lines.
+2025-10-01 20:35:10,397 - main_ingestion - INFO - Cleaned text: Retained 38 lines.
+2025-10-01 20:35:10,397 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,397 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,397 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,397 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,397 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,398 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,398 - main_ingestion - INFO - Cleaned text: Retained 3 lines.
+2025-10-01 20:35:10,398 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,398 - main_ingestion - INFO - Cleaned text: Retained 28 lines.
+2025-10-01 20:35:10,398 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,398 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,398 - main_ingestion - INFO - Cleaned text: Retained 21 lines.
+2025-10-01 20:35:10,398 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,398 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,399 - main_ingestion - INFO - Cleaned text: Retained 16 lines.
+2025-10-01 20:35:10,399 - main_ingestion - INFO - Cleaned text: Retained 30 lines.
+2025-10-01 20:35:10,399 - main_ingestion - INFO - Cleaned text: Retained 6 lines.
+2025-10-01 20:35:10,399 - main_ingestion - INFO - Cleaned text: Retained 26 lines.
+2025-10-01 20:35:10,399 - main_ingestion - INFO - Cleaned text: Retained 32 lines.
+2025-10-01 20:35:10,400 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,400 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,400 - main_ingestion - INFO - Cleaned text: Retained 101 lines.
+2025-10-01 20:35:10,400 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,400 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,400 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,401 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,401 - main_ingestion - INFO - Cleaned text: Retained 36 lines.
+2025-10-01 20:35:10,401 - main_ingestion - INFO - Cleaned text: Retained 28 lines.
+2025-10-01 20:35:10,401 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,401 - main_ingestion - INFO - Cleaned text: Retained 23 lines.
+2025-10-01 20:35:10,402 - main_ingestion - INFO - Cleaned text: Retained 7 lines.
+2025-10-01 20:35:10,402 - main_ingestion - INFO - Cleaned text: Retained 32 lines.
+2025-10-01 20:35:10,402 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,402 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,402 - main_ingestion - INFO - Cleaned text: Retained 24 lines.
+2025-10-01 20:35:10,403 - main_ingestion - INFO - Cleaned text: Retained 52 lines.
+2025-10-01 20:35:10,403 - main_ingestion - INFO - Cleaned text: Retained 11 lines.
+2025-10-01 20:35:10,403 - main_ingestion - INFO - Cleaned text: Retained 88 lines.
+2025-10-01 20:35:10,403 - main_ingestion - INFO - Cleaned text: Retained 14 lines.
+2025-10-01 20:35:10,403 - main_ingestion - INFO - Cleaned text: Retained 20 lines.
+2025-10-01 20:35:10,404 - main_ingestion - INFO - Cleaned text: Retained 28 lines.
+2025-10-01 20:35:10,404 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,404 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,404 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,404 - main_ingestion - INFO - Cleaned text: Retained 11 lines.
+2025-10-01 20:35:10,404 - main_ingestion - INFO - Cleaned text: Retained 35 lines.
+2025-10-01 20:35:10,404 - main_ingestion - INFO - Cleaned text: Retained 28 lines.
+2025-10-01 20:35:10,405 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,405 - main_ingestion - INFO - Cleaned text: Retained 61 lines.
+2025-10-01 20:35:10,405 - main_ingestion - INFO - Cleaned text: Retained 26 lines.
+2025-10-01 20:35:10,405 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,405 - main_ingestion - INFO - Cleaned text: Retained 34 lines.
+2025-10-01 20:35:10,406 - main_ingestion - INFO - Cleaned text: Retained 52 lines.
+2025-10-01 20:35:10,406 - main_ingestion - INFO - Cleaned text: Retained 48 lines.
+2025-10-01 20:35:10,406 - main_ingestion - INFO - Cleaned text: Retained 12 lines.
+2025-10-01 20:35:10,406 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,406 - main_ingestion - INFO - Cleaned text: Retained 65 lines.
+2025-10-01 20:35:10,406 - main_ingestion - INFO - Cleaned text: Retained 3 lines.
+2025-10-01 20:35:10,407 - main_ingestion - INFO - Cleaned text: Retained 18 lines.
+2025-10-01 20:35:10,407 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,407 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,407 - main_ingestion - INFO - Cleaned text: Retained 72 lines.
+2025-10-01 20:35:10,407 - main_ingestion - INFO - Cleaned text: Retained 23 lines.
+2025-10-01 20:35:10,407 - main_ingestion - INFO - Cleaned text: Retained 22 lines.
+2025-10-01 20:35:10,408 - main_ingestion - INFO - Cleaned text: Retained 41 lines.
+2025-10-01 20:35:10,408 - main_ingestion - INFO - Cleaned text: Retained 41 lines.
+2025-10-01 20:35:10,408 - main_ingestion - INFO - Cleaned text: Retained 8 lines.
+2025-10-01 20:35:10,408 - main_ingestion - INFO - Cleaned text: Retained 26 lines.
+2025-10-01 20:35:10,408 - main_ingestion - INFO - Cleaned text: Retained 25 lines.
+2025-10-01 20:35:10,408 - main_ingestion - INFO - Cleaned text: Retained 28 lines.
+2025-10-01 20:35:10,409 - main_ingestion - INFO - Cleaned text: Retained 66 lines.
+2025-10-01 20:35:10,409 - main_ingestion - INFO - Cleaned text: Retained 42 lines.
+2025-10-01 20:35:10,409 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,409 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,410 - main_ingestion - INFO - Cleaned text: Retained 225 lines.
+2025-10-01 20:35:10,410 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,410 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,410 - main_ingestion - INFO - Cleaned text: Retained 191 lines.
+2025-10-01 20:35:10,411 - main_ingestion - INFO - Cleaned text: Retained 112 lines.
+2025-10-01 20:35:10,411 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,411 - main_ingestion - INFO - Cleaned text: Retained 178 lines.
+2025-10-01 20:35:10,412 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,412 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,412 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,412 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,412 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,412 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,412 - main_ingestion - INFO - Cleaned text: Retained 28 lines.
+2025-10-01 20:35:10,412 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,412 - main_ingestion - INFO - Cleaned text: Retained 11 lines.
+2025-10-01 20:35:10,412 - main_ingestion - INFO - Cleaned text: Retained 12 lines.
+2025-10-01 20:35:10,412 - main_ingestion - INFO - Cleaned text: Retained 24 lines.
+2025-10-01 20:35:10,413 - main_ingestion - INFO - Cleaned text: Retained 36 lines.
+2025-10-01 20:35:10,413 - main_ingestion - INFO - Cleaned text: Retained 21 lines.
+2025-10-01 20:35:10,413 - main_ingestion - INFO - Cleaned text: Retained 34 lines.
+2025-10-01 20:35:10,413 - main_ingestion - INFO - Cleaned text: Retained 32 lines.
+2025-10-01 20:35:10,413 - main_ingestion - INFO - Cleaned text: Retained 14 lines.
+2025-10-01 20:35:10,413 - main_ingestion - INFO - Cleaned text: Retained 24 lines.
+2025-10-01 20:35:10,414 - main_ingestion - INFO - Cleaned text: Retained 15 lines.
+2025-10-01 20:35:10,414 - main_ingestion - INFO - Cleaned text: Retained 57 lines.
+2025-10-01 20:35:10,414 - main_ingestion - INFO - Cleaned text: Retained 60 lines.
+2025-10-01 20:35:10,414 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,415 - main_ingestion - INFO - Cleaned text: Retained 81 lines.
+2025-10-01 20:35:10,415 - main_ingestion - INFO - Cleaned text: Retained 13 lines.
+2025-10-01 20:35:10,415 - main_ingestion - INFO - Cleaned text: Retained 57 lines.
+2025-10-01 20:35:10,415 - main_ingestion - INFO - Cleaned text: Retained 32 lines.
+2025-10-01 20:35:10,415 - main_ingestion - INFO - Cleaned text: Retained 12 lines.
+2025-10-01 20:35:10,415 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,416 - main_ingestion - INFO - Cleaned text: Retained 27 lines.
+2025-10-01 20:35:10,416 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,416 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,416 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,416 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,416 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,416 - main_ingestion - INFO - Cleaned text: Retained 15 lines.
+2025-10-01 20:35:10,416 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,416 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,417 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,417 - main_ingestion - INFO - Cleaned text: Retained 11 lines.
+2025-10-01 20:35:10,417 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,417 - main_ingestion - INFO - Cleaned text: Retained 43 lines.
+2025-10-01 20:35:10,417 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,417 - main_ingestion - INFO - Cleaned text: Retained 20 lines.
+2025-10-01 20:35:10,418 - main_ingestion - INFO - Cleaned text: Retained 17 lines.
+2025-10-01 20:35:10,418 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,418 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,418 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,418 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,419 - main_ingestion - INFO - Cleaned text: Retained 47 lines.
+2025-10-01 20:35:10,419 - main_ingestion - INFO - Cleaned text: Retained 10 lines.
+2025-10-01 20:35:10,419 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,419 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,419 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,420 - main_ingestion - INFO - Cleaned text: Retained 111 lines.
+2025-10-01 20:35:10,420 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,420 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,420 - main_ingestion - INFO - Cleaned text: Retained 3 lines.
+2025-10-01 20:35:10,420 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,420 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,421 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,421 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,421 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,421 - main_ingestion - INFO - Cleaned text: Retained 30 lines.
+2025-10-01 20:35:10,421 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,421 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,421 - main_ingestion - INFO - Cleaned text: Retained 34 lines.
+2025-10-01 20:35:10,421 - main_ingestion - INFO - Cleaned text: Retained 40 lines.
+2025-10-01 20:35:10,422 - main_ingestion - INFO - Cleaned text: Retained 35 lines.
+2025-10-01 20:35:10,422 - main_ingestion - INFO - Cleaned text: Retained 3 lines.
+2025-10-01 20:35:10,422 - main_ingestion - INFO - Cleaned text: Retained 93 lines.
+2025-10-01 20:35:10,422 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,423 - main_ingestion - INFO - Cleaned text: Retained 172 lines.
+2025-10-01 20:35:10,423 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,423 - main_ingestion - INFO - Cleaned text: Retained 35 lines.
+2025-10-01 20:35:10,423 - main_ingestion - INFO - Cleaned text: Retained 23 lines.
+2025-10-01 20:35:10,423 - main_ingestion - INFO - Cleaned text: Retained 35 lines.
+2025-10-01 20:35:10,423 - main_ingestion - INFO - Cleaned text: Retained 11 lines.
+2025-10-01 20:35:10,423 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,424 - main_ingestion - INFO - Cleaned text: Retained 19 lines.
+2025-10-01 20:35:10,424 - main_ingestion - INFO - Cleaned text: Retained 14 lines.
+2025-10-01 20:35:10,424 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,424 - main_ingestion - INFO - Cleaned text: Retained 19 lines.
+2025-10-01 20:35:10,424 - main_ingestion - INFO - Cleaned text: Retained 27 lines.
+2025-10-01 20:35:10,424 - main_ingestion - INFO - Cleaned text: Retained 6 lines.
+2025-10-01 20:35:10,424 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,425 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,425 - main_ingestion - INFO - Cleaned text: Retained 13 lines.
+2025-10-01 20:35:10,425 - main_ingestion - INFO - Cleaned text: Retained 25 lines.
+2025-10-01 20:35:10,425 - main_ingestion - INFO - Cleaned text: Retained 3 lines.
+2025-10-01 20:35:10,425 - main_ingestion - INFO - Cleaned text: Retained 99 lines.
+2025-10-01 20:35:10,425 - main_ingestion - INFO - Cleaned text: Retained 27 lines.
+2025-10-01 20:35:10,426 - main_ingestion - INFO - Cleaned text: Retained 23 lines.
+2025-10-01 20:35:10,426 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,426 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,426 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,426 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,426 - main_ingestion - INFO - Cleaned text: Retained 32 lines.
+2025-10-01 20:35:10,426 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,426 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,427 - main_ingestion - INFO - Cleaned text: Retained 11 lines.
+2025-10-01 20:35:10,427 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,427 - main_ingestion - INFO - Cleaned text: Retained 50 lines.
+2025-10-01 20:35:10,427 - main_ingestion - INFO - Cleaned text: Retained 62 lines.
+2025-10-01 20:35:10,427 - main_ingestion - INFO - Cleaned text: Retained 28 lines.
+2025-10-01 20:35:10,427 - main_ingestion - INFO - Cleaned text: Retained 35 lines.
+2025-10-01 20:35:10,428 - main_ingestion - INFO - Cleaned text: Retained 25 lines.
+2025-10-01 20:35:10,428 - main_ingestion - INFO - Cleaned text: Retained 19 lines.
+2025-10-01 20:35:10,428 - main_ingestion - INFO - Cleaned text: Retained 48 lines.
+2025-10-01 20:35:10,428 - main_ingestion - INFO - Cleaned text: Retained 20 lines.
+2025-10-01 20:35:10,428 - main_ingestion - INFO - Cleaned text: Retained 42 lines.
+2025-10-01 20:35:10,428 - main_ingestion - INFO - Cleaned text: Retained 21 lines.
+2025-10-01 20:35:10,429 - main_ingestion - INFO - Cleaned text: Retained 13 lines.
+2025-10-01 20:35:10,429 - main_ingestion - INFO - Cleaned text: Retained 133 lines.
+2025-10-01 20:35:10,429 - main_ingestion - INFO - Cleaned text: Retained 55 lines.
+2025-10-01 20:35:10,430 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,430 - main_ingestion - INFO - Cleaned text: Retained 36 lines.
+2025-10-01 20:35:10,430 - main_ingestion - INFO - Cleaned text: Retained 35 lines.
+2025-10-01 20:35:10,430 - main_ingestion - INFO - Cleaned text: Retained 8 lines.
+2025-10-01 20:35:10,430 - main_ingestion - INFO - Cleaned text: Retained 36 lines.
+2025-10-01 20:35:10,430 - main_ingestion - INFO - Cleaned text: Retained 60 lines.
+2025-10-01 20:35:10,431 - main_ingestion - INFO - Cleaned text: Retained 11 lines.
+2025-10-01 20:35:10,431 - main_ingestion - INFO - Cleaned text: Retained 55 lines.
+2025-10-01 20:35:10,431 - main_ingestion - INFO - Cleaned text: Retained 38 lines.
+2025-10-01 20:35:10,431 - main_ingestion - INFO - Cleaned text: Retained 18 lines.
+2025-10-01 20:35:10,431 - main_ingestion - INFO - Cleaned text: Retained 39 lines.
+2025-10-01 20:35:10,431 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,432 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,432 - main_ingestion - INFO - Cleaned text: Retained 37 lines.
+2025-10-01 20:35:10,432 - main_ingestion - INFO - Cleaned text: Retained 24 lines.
+2025-10-01 20:35:10,432 - main_ingestion - INFO - Cleaned text: Retained 26 lines.
+2025-10-01 20:35:10,432 - main_ingestion - INFO - Cleaned text: Retained 17 lines.
+2025-10-01 20:35:10,432 - main_ingestion - INFO - Cleaned text: Retained 19 lines.
+2025-10-01 20:35:10,432 - main_ingestion - INFO - Cleaned text: Retained 17 lines.
+2025-10-01 20:35:10,433 - main_ingestion - INFO - Cleaned text: Retained 36 lines.
+2025-10-01 20:35:10,433 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,433 - main_ingestion - INFO - Cleaned text: Retained 6 lines.
+2025-10-01 20:35:10,433 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,433 - main_ingestion - INFO - Cleaned text: Retained 13 lines.
+2025-10-01 20:35:10,433 - main_ingestion - INFO - Cleaned text: Retained 13 lines.
+2025-10-01 20:35:10,434 - main_ingestion - INFO - Cleaned text: Retained 15 lines.
+2025-10-01 20:35:10,434 - main_ingestion - INFO - Cleaned text: Retained 26 lines.
+2025-10-01 20:35:10,434 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,434 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,434 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,435 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,435 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,435 - main_ingestion - INFO - Cleaned text: Retained 36 lines.
+2025-10-01 20:35:10,435 - main_ingestion - INFO - Cleaned text: Retained 40 lines.
+2025-10-01 20:35:10,435 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,436 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,436 - main_ingestion - INFO - Cleaned text: Retained 28 lines.
+2025-10-01 20:35:10,436 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,436 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,436 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,436 - main_ingestion - INFO - Cleaned text: Retained 8 lines.
+2025-10-01 20:35:10,437 - main_ingestion - INFO - Cleaned text: Retained 32 lines.
+2025-10-01 20:35:10,437 - main_ingestion - INFO - Cleaned text: Retained 52 lines.
+2025-10-01 20:35:10,437 - main_ingestion - INFO - Cleaned text: Retained 20 lines.
+2025-10-01 20:35:10,437 - main_ingestion - INFO - Cleaned text: Retained 36 lines.
+2025-10-01 20:35:10,437 - main_ingestion - INFO - Cleaned text: Retained 16 lines.
+2025-10-01 20:35:10,437 - main_ingestion - INFO - Cleaned text: Retained 26 lines.
+2025-10-01 20:35:10,437 - main_ingestion - INFO - Cleaned text: Retained 10 lines.
+2025-10-01 20:35:10,438 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,438 - main_ingestion - INFO - Cleaned text: Retained 17 lines.
+2025-10-01 20:35:10,438 - main_ingestion - INFO - Cleaned text: Retained 3 lines.
+2025-10-01 20:35:10,438 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,438 - main_ingestion - INFO - Cleaned text: Retained 32 lines.
+2025-10-01 20:35:10,438 - main_ingestion - INFO - Cleaned text: Retained 36 lines.
+2025-10-01 20:35:10,438 - main_ingestion - INFO - Cleaned text: Retained 8 lines.
+2025-10-01 20:35:10,439 - main_ingestion - INFO - Cleaned text: Retained 8 lines.
+2025-10-01 20:35:10,439 - main_ingestion - INFO - Cleaned text: Retained 35 lines.
+2025-10-01 20:35:10,439 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,439 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,439 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,439 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,439 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,439 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,440 - main_ingestion - INFO - Cleaned text: Retained 23 lines.
+2025-10-01 20:35:10,440 - main_ingestion - INFO - Cleaned text: Retained 20 lines.
+2025-10-01 20:35:10,440 - main_ingestion - INFO - Cleaned text: Retained 19 lines.
+2025-10-01 20:35:10,440 - main_ingestion - INFO - Cleaned text: Retained 33 lines.
+2025-10-01 20:35:10,440 - main_ingestion - INFO - Cleaned text: Retained 29 lines.
+2025-10-01 20:35:10,440 - main_ingestion - INFO - Cleaned text: Retained 15 lines.
+2025-10-01 20:35:10,441 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,441 - main_ingestion - INFO - Cleaned text: Retained 33 lines.
+2025-10-01 20:35:10,441 - main_ingestion - INFO - Cleaned text: Retained 2 lines.
+2025-10-01 20:35:10,441 - main_ingestion - INFO - Cleaned text: Retained 73 lines.
+2025-10-01 20:35:10,441 - main_ingestion - INFO - Cleaned text: Retained 17 lines.
+2025-10-01 20:35:10,441 - main_ingestion - INFO - Cleaned text: Retained 33 lines.
+2025-10-01 20:35:10,442 - main_ingestion - INFO - Cleaned text: Retained 31 lines.
+2025-10-01 20:35:10,442 - main_ingestion - INFO - Cleaned text: Retained 18 lines.
+2025-10-01 20:35:10,442 - main_ingestion - INFO - Cleaned text: Retained 32 lines.
+2025-10-01 20:35:10,442 - main_ingestion - INFO - Cleaned text: Retained 4 lines.
+2025-10-01 20:35:10,442 - main_ingestion - INFO - Cleaned text: Retained 26 lines.
+2025-10-01 20:35:10,442 - main_ingestion - INFO - Cleaned text: Retained 14 lines.
+2025-10-01 20:35:10,442 - main_ingestion - INFO - Cleaned text: Retained 0 lines.
+2025-10-01 20:35:10,442 - main_ingestion - INFO - Cleaned text: Retained 1 lines.
+2025-10-01 20:35:10,486 - main_ingestion - INFO - Split 'INDRAMMA INDLU NEW30thAug2025.pdf' into 572 chunks.
+2025-10-01 20:35:10,487 - main_ingestion - INFO - Initializing vector store and embedding model...
+2025-10-01 20:35:10,718 - main_ingestion - INFO - Adding 572 new chunks to the database...
+2025-10-01 20:35:20,378 - main_ingestion - INFO - Added batch 1/6
+2025-10-01 20:35:25,351 - main_ingestion - INFO - Added batch 2/6
+2025-10-01 20:35:30,563 - main_ingestion - INFO - Added batch 3/6
+2025-10-01 20:35:35,897 - main_ingestion - INFO - Added batch 4/6
+2025-10-01 20:35:45,127 - main_ingestion - INFO - Added batch 5/6
+2025-10-01 20:35:48,871 - main_ingestion - INFO - Added batch 6/6
+2025-10-01 20:35:48,872 - main_ingestion - INFO - Successfully added all new documents to the database.
+2025-10-01 20:35:48,872 - main_ingestion - INFO - Updated processed files log.
+2025-10-01 20:35:48,872 - main_ingestion - INFO - Database update process finished.
+2025-10-01 20:36:06,606 - api - INFO - Server starting up...
+2025-10-01 20:36:12,142 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:36:24,236 - api - INFO - Session: session_1759331181428, Question: 'What is the Indiramma Indlu scheme?'
+2025-10-01 20:36:28,440 - api - INFO - Intent classified as: 'informational'
+2025-10-01 20:37:05,875 - api - INFO - Translating final answer to Telugu...
+2025-10-01 20:37:15,580 - api - INFO - Stream cancelled by client.
+2025-10-01 20:37:15,580 - api - INFO - Closing stream generator.
+2025-10-01 20:38:51,116 - api - INFO - Orchestrator finished successfully.
+2025-10-01 20:46:09,525 - api - INFO - Server starting up...
+2025-10-01 20:46:17,145 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:46:37,374 - api - INFO - Session: session_1759331794523, Question: 'Who is eligible for the Indiramma Housing Scheme?'
+2025-10-01 20:46:42,032 - api - ERROR - Orchestrator error: 404 models/gemini-1.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "I:\ADS\Chat_bot_3\api.py", line 166, in orchestrate_and_stream
+    intent = (await intent_classifier_chain.ainvoke({"question": question})).strip().lower()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 3290, in ainvoke
+    input_ = await coro_with_context(part(), context, create_task=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 417, in ainvoke
+    llm_result = await self.agenerate_prompt(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1034, in agenerate_prompt
+    return await self.agenerate(
+           ^^^^^^^^^^^^^^^^^^^^^
+        prompt_messages, stop=stop, callbacks=callbacks, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 992, in agenerate
+    raise exceptions[0]
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1162, in _agenerate_with_cache
+    result = await self._agenerate(
+             ^^^^^^^^^^^^^^^^^^^^^^
+        messages, stop=stop, run_manager=run_manager, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 1010, in _agenerate
+    response: GenerateContentResponse = await _achat_with_retry(
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 229, in _achat_with_retry
+    return await _achat_with_retry(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 153, in iter
+    result = await action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 227, in _achat_with_retry
+    raise e
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 220, in _achat_with_retry
+    return await generation_method(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\async_client.py", line 440, in generate_content
+    response = await rpc(
+               ^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 231, in retry_wrapped_func
+    return await retry_target(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 163, in retry_target
+    next_sleep = _retry_error_helper(
+        exc,
+    ...<6 lines>...
+        timeout,
+    )
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 158, in retry_target
+    return await target()
+           ^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\grpc_helpers_async.py", line 88, in __await__
+    raise exceptions.from_grpc_error(rpc_error) from rpc_error
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-01 20:46:42,046 - api - INFO - Closing stream generator.
+2025-10-01 20:47:06,326 - api - INFO - Server starting up...
+2025-10-01 20:47:12,904 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:47:25,085 - api - INFO - Session: session_1759331842738, Question: 'Who is eligible for the Indiramma Housing Scheme?'
+2025-10-01 20:47:30,173 - api - ERROR - Orchestrator error: 404 models/gemini-2.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "I:\ADS\Chat_bot_3\api.py", line 166, in orchestrate_and_stream
+    intent = (await intent_classifier_chain.ainvoke({"question": question})).strip().lower()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 3290, in ainvoke
+    input_ = await coro_with_context(part(), context, create_task=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 417, in ainvoke
+    llm_result = await self.agenerate_prompt(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1034, in agenerate_prompt
+    return await self.agenerate(
+           ^^^^^^^^^^^^^^^^^^^^^
+        prompt_messages, stop=stop, callbacks=callbacks, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 992, in agenerate
+    raise exceptions[0]
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1162, in _agenerate_with_cache
+    result = await self._agenerate(
+             ^^^^^^^^^^^^^^^^^^^^^^
+        messages, stop=stop, run_manager=run_manager, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 1010, in _agenerate
+    response: GenerateContentResponse = await _achat_with_retry(
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 229, in _achat_with_retry
+    return await _achat_with_retry(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 153, in iter
+    result = await action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 227, in _achat_with_retry
+    raise e
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 220, in _achat_with_retry
+    return await generation_method(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\async_client.py", line 440, in generate_content
+    response = await rpc(
+               ^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 231, in retry_wrapped_func
+    return await retry_target(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 163, in retry_target
+    next_sleep = _retry_error_helper(
+        exc,
+    ...<6 lines>...
+        timeout,
+    )
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 158, in retry_target
+    return await target()
+           ^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\grpc_helpers_async.py", line 88, in __await__
+    raise exceptions.from_grpc_error(rpc_error) from rpc_error
+google.api_core.exceptions.NotFound: 404 models/gemini-2.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-01 20:47:30,187 - api - INFO - Closing stream generator.
+2025-10-01 20:47:50,939 - api - INFO - Server starting up...
+2025-10-01 20:47:56,627 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:48:11,860 - api - INFO - Session: session_1759331889900, Question: 'Who is eligible for the Indiramma Housing Scheme?'
+2025-10-01 20:48:17,299 - api - INFO - Intent classified as: 'informational'
+2025-10-01 20:49:00,478 - api - INFO - Translating final answer to Telugu...
+2025-10-01 20:50:07,780 - api - INFO - Orchestrator finished successfully.
+2025-10-01 20:50:07,780 - api - INFO - Closing stream generator.
+2025-10-01 20:57:19,304 - api - INFO - Server starting up...
+2025-10-01 20:57:26,032 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:57:34,093 - api - INFO - Session: session_1759332450904, Question: 'Who is eligible for the Indiramma Housing Scheme?'
+2025-10-01 20:57:39,369 - api - ERROR - Orchestrator error: 404 models/gemini-1.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "I:\ADS\Chat_bot_3\api.py", line 135, in orchestrate_and_stream
+    intent = (await intent_classifier_chain.ainvoke({"question": question})).strip().lower()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 3290, in ainvoke
+    input_ = await coro_with_context(part(), context, create_task=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 417, in ainvoke
+    llm_result = await self.agenerate_prompt(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1034, in agenerate_prompt
+    return await self.agenerate(
+           ^^^^^^^^^^^^^^^^^^^^^
+        prompt_messages, stop=stop, callbacks=callbacks, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 992, in agenerate
+    raise exceptions[0]
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1162, in _agenerate_with_cache
+    result = await self._agenerate(
+             ^^^^^^^^^^^^^^^^^^^^^^
+        messages, stop=stop, run_manager=run_manager, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 1010, in _agenerate
+    response: GenerateContentResponse = await _achat_with_retry(
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 229, in _achat_with_retry
+    return await _achat_with_retry(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 153, in iter
+    result = await action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 227, in _achat_with_retry
+    raise e
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 220, in _achat_with_retry
+    return await generation_method(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\async_client.py", line 440, in generate_content
+    response = await rpc(
+               ^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 231, in retry_wrapped_func
+    return await retry_target(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 163, in retry_target
+    next_sleep = _retry_error_helper(
+        exc,
+    ...<6 lines>...
+        timeout,
+    )
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 158, in retry_target
+    return await target()
+           ^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\grpc_helpers_async.py", line 88, in __await__
+    raise exceptions.from_grpc_error(rpc_error) from rpc_error
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-01 20:57:39,382 - api - INFO - Closing stream generator.
+2025-10-01 20:58:06,757 - api - INFO - Server starting up...
+2025-10-01 20:58:14,175 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:58:25,232 - api - INFO - Server starting up...
+2025-10-01 20:58:32,157 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 20:58:37,080 - api - INFO - Session: session_1759332515174, Question: 'What is the Indiramma Indlu scheme?'
+2025-10-01 20:58:44,517 - api - INFO - Intent classified as: 'informational'
+2025-10-01 20:59:04,360 - api - INFO - Translating final answer to Telugu...
+2025-10-01 21:00:48,677 - api - INFO - Orchestrator finished successfully.
+2025-10-01 21:00:48,678 - api - INFO - Closing stream generator.
+2025-10-01 21:04:13,906 - api - INFO - Server starting up...
+2025-10-01 21:04:19,098 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 21:04:48,968 - api - INFO - Session: session_1759332887357, Question: 'What is the Indiramma Indlu scheme?'
+2025-10-01 21:04:53,527 - api - ERROR - Orchestrator error: 404 models/gemini-1.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "I:\ADS\Chat_bot_3\api.py", line 137, in orchestrate_and_stream
+    intent = (await intent_classifier_chain.ainvoke({"question": question})).strip().lower()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 3290, in ainvoke
+    input_ = await coro_with_context(part(), context, create_task=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 417, in ainvoke
+    llm_result = await self.agenerate_prompt(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1034, in agenerate_prompt
+    return await self.agenerate(
+           ^^^^^^^^^^^^^^^^^^^^^
+        prompt_messages, stop=stop, callbacks=callbacks, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 992, in agenerate
+    raise exceptions[0]
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1162, in _agenerate_with_cache
+    result = await self._agenerate(
+             ^^^^^^^^^^^^^^^^^^^^^^
+        messages, stop=stop, run_manager=run_manager, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 1010, in _agenerate
+    response: GenerateContentResponse = await _achat_with_retry(
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 229, in _achat_with_retry
+    return await _achat_with_retry(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 153, in iter
+    result = await action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\tenacity\asyncio\__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 227, in _achat_with_retry
+    raise e
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\langchain_google_genai\chat_models.py", line 220, in _achat_with_retry
+    return await generation_method(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\async_client.py", line 440, in generate_content
+    response = await rpc(
+               ^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 231, in retry_wrapped_func
+    return await retry_target(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 163, in retry_target
+    next_sleep = _retry_error_helper(
+        exc,
+    ...<6 lines>...
+        timeout,
+    )
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\retry\retry_unary_async.py", line 158, in retry_target
+    return await target()
+           ^^^^^^^^^^^^^^
+  File "i:\ADS\Chat_bot_2\.venv\Lib\site-packages\google\api_core\grpc_helpers_async.py", line 88, in __await__
+    raise exceptions.from_grpc_error(rpc_error) from rpc_error
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-01 21:04:53,540 - api - INFO - Closing stream generator.
+2025-10-01 21:05:36,750 - api - INFO - Server starting up...
+2025-10-01 21:05:43,157 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 21:05:53,837 - api - INFO - Server starting up...
+2025-10-01 21:06:00,241 - api - INFO - All models and databases loaded. Server is ready!
+2025-10-01 21:06:06,011 - api - INFO - Session: session_1759332964521, Question: 'Who is eligible for the Indiramma Housing Scheme?'
+2025-10-01 21:06:12,256 - api - INFO - Intent classified as: 'informational'
+2025-10-01 21:06:26,754 - api - INFO - Translating final answer to Telugu...
+2025-10-01 21:07:01,966 - api - INFO - Orchestrator finished successfully.
+2025-10-01 21:07:01,966 - api - INFO - Closing stream generator.
+2025-10-01 21:07:37,713 - api - INFO - Session: session_1759332964521, Question: 'what is the purpose of the scheme'
+2025-10-01 21:07:41,702 - api - INFO - Intent classified as: 'informational'
+2025-10-01 21:07:54,788 - api - INFO - Translating final answer to Telugu...
+2025-10-01 21:08:29,774 - api - INFO - Orchestrator finished successfully.
+2025-10-01 21:08:29,775 - api - INFO - Closing stream generator.
+2025-10-01 21:20:32,752 - api - INFO - Server starting up...
+2025-10-01 21:20:40,325 - api - INFO - All models and databases loaded. Server is ready!
